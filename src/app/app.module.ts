@@ -3,17 +3,32 @@ import { BrowserModule, provideClientHydration } from '@angular/platform-browser
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
+import { IndexComponent } from './pages/index/index.component';
+import { NotfoundComponent } from './pages/notfound/notfound.component';
+import { FooterComponent } from './components/footer/footer.component';
+import { StoryDetailComponent } from './pages/story-detail/story-detail.component';
+import { HttpClientModule, provideHttpClient, withFetch } from '@angular/common/http';
+import { StoriesComponent } from './pages/stories/stories.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    NavbarComponent,
+    IndexComponent,
+    NotfoundComponent,
+    FooterComponent,
+    StoryDetailComponent,
+    StoriesComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [
-    provideClientHydration()
+    provideClientHydration(),
+    provideHttpClient(withFetch())
   ],
   bootstrap: [AppComponent]
 })

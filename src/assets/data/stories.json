@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Miracle in Munich",
+        "description": "The 2012 UEFA Champions League final between Chelsea and Bayern Munich, played at the Allianz Arena in Munich, was one of the most exciting in the tournament's history. Bayern dominated much of the match, with Thomas Müller's early goal in the 83rd minute seemingly bringing them closer to victory at home. However, Chelsea, under Roberto Di Matteo, did not give up. Didier Drogba, in a decisive moment, tied the game with a header in the 88th minute, sending the game into extra time. In extra time, both teams had chances, but the resolution came in an epic penalty shoot-out. Petr Čech, Chelsea's Czech goalkeeper, became the hero as he saved a penalty from Arjen Robben. Finally, with the score 4-3 in favour of the Blues, Drogba scored the decisive penalty, giving Chelsea their first Champions League title in their history, a triumph that would forever be etched in the memory of their fans.",
+        "cover_photo": "https://img.bleacherreport.net/img/images/photos/002/652/705/hi-res-144812615-didier-drogba-of-chelsea-scores-the-winning-penalty_crop_north.jpg?1386673836&w=3072&h=2048",
+        "article_photo": "https://i2-prod.football.london/incoming/article24002790.ece/ALTERNATES/s1200b/0_GettyImages-549375277.jpg",
+        "article_photo_caption": "Squad celebrating with the Trophy",
+        "date": "May 5, 2012",
+        "category": "MATCHES"
+    },
+    {
+        "id": 2,
+        "title": "Leicester City's Fairytale Triumph",
+        "description": "The 2015-16 Premier League season witnessed one of the greatest underdog stories in football history as Leicester City defied all odds to claim their first-ever English top-flight title. Under the management of Claudio Ranieri, the Foxes assembled a squad that blended resilience, skill, and determination. Led by inspirational players such as Jamie Vardy, Riyad Mahrez, and N'Golo Kanté, Leicester dominated the league despite being 5000-1 outsiders at the start of the season. Vardy set a new record by scoring in 11 consecutive Premier League matches, while Mahrez dazzled with his creativity and goalscoring ability. Leicester secured the title with two games to spare after Tottenham failed to beat Chelsea, sparking jubilant celebrations across the city. Their triumph was hailed as a modern football miracle, proving that teamwork and belief could overcome financial power in the sport.",
+        "cover_photo": "https://i.pinimg.com/736x/a6/a2/69/a6a269b19fe2017ef58030071f2ff2a6.jpg",
+        "article_photo": "https://www.si.com/.image/t_share/MTY4MTA1MDM0MTkzMDUzMDU2/2015-0822-leicester-city-riyad-mahrez-gokhan-inler-jeffrey-schluppjpg.jpg",
+        "article_photo_caption": "Leicester City players celebrating",
+        "date": "May 2, 2016",
+        "category": "Teams"
+    }
+]

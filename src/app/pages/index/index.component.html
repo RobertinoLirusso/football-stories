@@ -1,0 +1,49 @@
+<div class="d-flex flex-column min-vh-100 bg-body-tertiary">
+    <app-navbar></app-navbar>
+
+    <div class="container-fluid p-5 shadow bg-dark text-white">
+      <div class="row align-items-center">
+        <div class="col-md-6">
+          <p class="display-5">Welcome to Football Stories!!!</p>
+          <p class="lead">
+            This page compiles simple yet meaningful football stories that deserve to be told—stories that every lover of the world's greatest sport should know.
+          </p>
+        </div>
+        <div class="col-md-6">
+          <img src="https://c4.wallpaperflare.com/wallpaper/984/731/639/lionel-messi-argentina-fifa-world-cup-2022-fifa-world-cup-soccer-hd-wallpaper-preview.jpg" class="img-fluid rounded" alt="Football Image">
+        </div>
+      </div>
+    </div>    
+    
+
+    <div class="card-container" *ngIf="stories">
+      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        <div class="col" *ngFor="let story of stories">
+          <div class="card h-100 card-hover shadow">
+            <img src="{{story.cover_photo}}" class="card-img-top img-fixed" alt="cover_photo">
+            <div class="card-body">
+              <h5 class="card-title" style="font-weight: bold;">{{story.title}}</h5>
+                <p class="card-text">{{ story.description | slice:0:100 }}...</p>
+                <div class="d-flex">
+                <p class="card-text me-2"><span class="badge text-bg-dark"><small class="text-white">{{story.date}}</small></span></p>
+                <p class="card-text">
+                  <span 
+                    class="badge rounded-pill"
+                    [ngClass]="getBadgeClass(story.category)">
+                    <small class="text-white">{{ story.category | titlecase }}</small>
+                  </span>
+                </p>                
+                </div>
+              <a [routerLink]="['/story', story.id]" class="btn btn-dark mt-2 btn btn-outline-light">Read More</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+        <ng-template *ngIf="!stories">
+          <p class="text-center">Loading stories...</p>
+        </ng-template>
+      </div>
+      
+      <app-footer></app-footer>
+</div>

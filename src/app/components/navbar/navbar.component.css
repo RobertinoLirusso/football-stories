@@ -1,0 +1,8 @@
+.navbar-nav .nav-link {
+    transition: transform 0.3s ease, text-shadow 0.3s ease; /* Suaviza el efecto */
+  }
+
+  .navbar-nav .nav-link:hover {
+    transform: translateY(-5px); /* Levanta el texto */
+    text-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Añade sombra para el efecto 3D */
+}
