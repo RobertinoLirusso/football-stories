@@ -7,7 +7,7 @@
         "article_photo": "https://i2-prod.football.london/incoming/article24002790.ece/ALTERNATES/s1200b/0_GettyImages-549375277.jpg",
         "article_photo_caption": "Squad celebrating with the Trophy",
         "date": "May 5, 2012",
-        "category": "MATCHES"
+        "category": "Matches"
     },
     {
         "id": 2,
@@ -18,5 +18,15 @@
         "article_photo_caption": "Leicester City players celebrating",
         "date": "May 2, 2016",
         "category": "Teams"
-    }
+    },
+    {
+        "id": 3,
+        "title": "Liverpool’s Epic Revival",
+        "description": "In one of the most remarkable comebacks in football history, Liverpool overturned a 3-0 first-leg deficit to defeat Barcelona 4-0 at Anfield in the 2018-19 UEFA Champions League semi-final, securing a 4-3 aggregate victory. The tie seemed over after Barcelona's dominant win at the Camp Nou, but Liverpool, led by Jürgen Klopp, produced an unforgettable night of football. Divock Origi opened the scoring in the 7th minute, and the atmosphere at Anfield grew even more electric when Georginio Wijnaldum scored twice in quick succession to level the aggregate score. Then, in one of the most iconic moments, Origi scored again from a quick corner taken by Trent Alexander-Arnold, completing the stunning turnaround. Barcelona, stunned and unable to respond, were left in disbelief, and Liverpool progressed to the final, where they would later defeat Tottenham Hotspur to win their sixth Champions League title.",
+        "cover_photo": "https://www.futbolred.com/files/image_800_600/uploads/2019/05/07/5cd1f16e00a81.jpeg",
+        "article_photo": "https://img.jakpost.net/c/2019/05/08/2019_05_08_71728_1557283035._large.jpg",
+        "article_photo_caption": "Liverpool players celebrating in front of Anfield crowd",
+        "date": "May 7, 2019",
+        "category": "Matches"
+    }    
 ]
