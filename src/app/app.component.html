@@ -1,1 +1,32 @@
 <router-outlet></router-outlet>
+
+<div *ngIf="audioService.isPlayerVisible" class="audio-player position-fixed bottom-0 end-0 bg-dark text-white p-3 d-flex align-items-center rounded shadow" style="width: 300px; margin: 15px;">
+  
+  <!-- Botón Play/Pause con icono de Bootstrap -->
+  <button class="btn btn-light btn-sm me-2" (click)="togglePlayPause()">
+    <i class="bi" [ngClass]="audioService.isPlaying ? 'bi-pause-fill' : 'bi-play-fill'"></i>
+  </button>
+
+  <!-- Botón Next con icono de Bootstrap -->
+  <button class="btn btn-light btn-sm me-2" (click)="audioService.playNext()">
+    <i class="bi bi-skip-end-fill"></i>
+  </button>
+
+  <!-- Mostrar el nombre de la canción solo si está reproduciendo -->
+  <span class="small text-truncate" *ngIf="audioService.isPlaying" style="max-width: 150px;">
+    🎵 {{ audioService.getCurrentTrackName() }}
+  </span>
+
+  <!-- Botón para ocultar el reproductor -->
+  <button class="btn btn-light btn-sm ms-auto" (click)="audioService.togglePlayerVisibility()">
+    <i class="bi bi-x-circle-fill"></i>
+  </button>
+</div>
+
+<!-- Botón para mostrar el reproductor si está oculto -->
+<div *ngIf="!audioService.isPlayerVisible" class="position-fixed bottom-0 end-0 m-3">
+  <button class="btn btn-dark btn-sm" (click)="audioService.togglePlayerVisibility()">
+    <i class="bi bi-play-circle-fill"></i> Show Player
+  </button>
+</div>
+

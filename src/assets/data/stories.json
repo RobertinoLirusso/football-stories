@@ -38,5 +38,36 @@
         "article_photo_caption": "Vibrant night at San Siro, the temple of football",
         "date": "September 19, 1926",
         "category": "Stadiums"
-    }        
+    },
+    {
+        "id": 5,
+        "title": "Pellegrini's Euro Málaga",
+        "description": "The 2012-13 UEFA Champions League saw Málaga CF embark on a historic journey that captured the hearts of football fans. Under the tactical guidance of Manuel Pellegrini, the Spanish club defied expectations in their first-ever appearance in the competition. Málaga topped their group undefeated, overcoming European giants like AC Milan. The team was built on a solid defensive foundation, led by Argentine goalkeeper Willy Caballero, who delivered heroic performances throughout the campaign. At the back, Martín Demichelis and Weligton provided leadership and resilience, while fullbacks Jesús Gámez and Eliseu added versatility. In midfield, the creativity of Isco shined, earning him the Golden Boy award as Europe’s best young player. He was supported by the experience of Manuel Iturra and the composure of Jeremy Toulalan. Up front, Joaquín’s dribbling and leadership were crucial, while Julio Baptista and Javier Saviola provided attacking firepower. After eliminating Porto in the Round of 16, Málaga faced Borussia Dortmund in the quarter-finals. A semi-final place seemed secured as they led 2-1 in stoppage time, but two controversial offside goals saw Dortmund pull off a dramatic comeback. Despite the heartbreak, Málaga’s Champions League adventure remains one of the greatest underdog stories in modern football history.",
+        "cover_photo": "https://media.squawka.com/images/en/2019/04/09133830/malaga-dortmund-team.jpg",
+        "article_photo": "https://statics-maker.llt-services.com/mga/images/2022/12/30/xlarge/c5a3663b-9e08-4bb2-8d6b-4cda7955b7df.jpg",
+        "article_photo_caption": "Málaga players celebrating a goal in the Champions League",
+        "date": "April 9, 2013",
+        "category": "Teams"
+    },
+    {
+        "id": 6,
+        "title": "QPR’s Superteam Failure",
+        "description": "The 2012-13 Premier League season was supposed to mark the rise of Queens Park Rangers as a competitive force after an ambitious transfer window. However, what followed was one of the most disastrous campaigns in the club’s history. Under manager Mark Hughes, QPR assembled a squad filled with high-profile signings, including Brazilian goalkeeper Júlio César, former Real Madrid midfielder Esteban Granero, and Manchester United legend Park Ji-sung. In attack, they brought in Djibril Cissé and Loïc Rémy, while their defense featured seasoned internationals like José Bosingwa and Christopher Samba. Despite the star power, the team struggled from the start, failing to win any of their first 16 league games. Hughes was sacked in November and replaced by Harry Redknapp, but even his experience could not save them. Dressing room issues, lack of chemistry, and a lack of fighting spirit doomed QPR, who finished 20th with just four wins all season. Relegation was confirmed with three games to spare, making their campaign one of the biggest disappointments in Premier League history.",
+        "cover_photo": "https://e0.365dm.com/13/01/1600x900/Park_2883186.jpg?20130108105518",
+        "article_photo": "https://facts.net/wp-content/uploads/2023/07/14-facts-about-queens-park-rangers-1690456900.jpg",
+        "article_photo_caption": "QPR players looking dejected after another defeat",
+        "date": "May 4, 2013",
+        "category": "Teams"
+    },
+    {
+        "id": 7,
+        "title": "Eden Hazard",
+        "description": "Eden Hazard’s career is a tale of breathtaking brilliance and unfulfilled potential. Rising to prominence at Lille, the Belgian winger became one of the most exciting young talents in Europe, leading the French club to a historic Ligue 1 title in 2011. His move to Chelsea in 2012 cemented his status as one of the best players of his generation. With dazzling dribbles, clutch goals, and mesmerizing performances, Hazard was the driving force behind Chelsea’s success, winning two Premier League titles, two Europa Leagues, and numerous individual awards. At his peak, he was often compared to the likes of Lionel Messi and Cristiano Ronaldo, mesmerizing fans with his ability to decide games single-handedly. In 2019, Hazard fulfilled his dream move to Real Madrid for a record fee, expected to be the heir to Ronaldo’s throne. However, injuries and fitness struggles plagued his time in Spain, preventing him from reaching his previous heights. Despite winning multiple trophies, including La Liga and the Champions League, Hazard’s influence on the pitch was minimal compared to his Chelsea days. After years of battling injuries, he retired from professional football in 2023, leaving fans wondering what could have been. Though his Real Madrid chapter ended in disappointment, his legacy as one of the Premier League’s greatest wingers remains undisputed.",
+        "cover_photo": "https://images.squarespace-cdn.com/content/v1/6415c251b151c40495b60ce0/77d6f471-6b52-4eba-bc1d-541e4c1674e8/hazard+2.jpeg",
+        "article_photo": "https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--6cd8588e-5715-4e6f-9c4b-366e9f7169ed/_330830698394.app.webp?preferwebp=true",
+        "article_photo_caption": "Eden Hazard lifting UEFA Champions League Trophy with Real Madrid",
+        "date": "October 10, 2023",
+        "category": "Players"
+    }
+    
 ]
