@@ -16,6 +16,7 @@ export class IndexComponent implements OnInit {
   ngOnInit(): void {
     this.storyService.getStories().subscribe(data => {
       this.stories = data;
+      this.stories = data.sort((a, b) => a.title.localeCompare(b.title));
     });
   }
 

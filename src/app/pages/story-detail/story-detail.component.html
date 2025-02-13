@@ -5,7 +5,7 @@
     <article class="blog-post">
       <p class="h2 fw-semibold text-center mb-3">{{ story.title }}</p>
       <figure class="figure text-center">
-        <img [src]="story.article_photo" alt="Story Image" class="figure-img img-thumbnail img-fluid mb-2 mx-auto d-block shadow">
+        <img [src]="story.article_photo" alt="Story Image" class="figure-img img-thumbnail img-fluid mb-2 mx-auto d-block shadow" loading="lazy">
         <figcaption class="figure-caption mb-3 fst-italic text-center">{{story.article_photo_caption}}.</figcaption>
       </figure>
       <p class="lead lh-base mt-3 text-justify">{{ story.description }}</p>
