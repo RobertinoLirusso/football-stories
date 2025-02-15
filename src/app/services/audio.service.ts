@@ -6,16 +6,24 @@ import { Injectable } from '@angular/core';
 export class AudioService {
   private audio: HTMLAudioElement | null = null;
   private playlist: { src: string, name: string }[] = [
-    { src: 'assets/audio/song1.mp3', name: 'Hala Madrid y nada más' },
-    { src: 'assets/audio/song2.mp3', name: 'Chelsea chants' },
+    { src: 'assets/audio/song1.mp3', name: 'Hala Madrid y Nada Más' },
+    { src: 'assets/audio/song2.mp3', name: 'Chelsea Fans Chants' },
+    { src: 'assets/audio/song3.mp3', name: "You'll Never Walk Alone'" },
+    { src: 'assets/audio/song4.mp3', name: 'Vamos Vamos Vamos La Acade' },
+    { src: 'assets/audio/song5.mp3', name: 'Cant del Barça' },
+    { src: 'assets/audio/song6.mp3', name: 'UEFA Champions League Anthem' },
+    { src: 'assets/audio/song7.mp3', name: 'Iceland Viking Clap' },
+    { src: 'assets/audio/song8.mp3', name: 'Man City Chant' },
+    { src: 'assets/audio/song9.mp3', name: 'Dynamo Dresden Ultras' },
+    { src: 'assets/audio/song10.mp3', name: 'Napoli Ultras' },
+
   ];
   private currentTrackIndex = 0;
   isPlaying = false;
-  isPlayerVisible = true;  // Controla la visibilidad del reproductor
+  isPlayerVisible = false;  // Controla la visibilidad del reproductor
 
 
   constructor() {
-    // Se crea el audio solo si estamos en el navegador
     if (typeof window !== 'undefined' && window.Audio) {
       this.audio = new Audio();
       this.audio.src = this.playlist[this.currentTrackIndex].src;
@@ -59,6 +67,6 @@ export class AudioService {
   }
 
   togglePlayerVisibility() {
-    this.isPlayerVisible = !this.isPlayerVisible;  // Alternar visibilidad
+    this.isPlayerVisible = !this.isPlayerVisible;  
   }
 }

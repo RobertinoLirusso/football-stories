@@ -10,6 +10,7 @@ import { ActivatedRoute } from '@angular/router';
 export class StoryDetailComponent implements OnInit {
 
   story: any;
+  imageLoaded: boolean = false;
 
   constructor(
     private storyService: StoryService,

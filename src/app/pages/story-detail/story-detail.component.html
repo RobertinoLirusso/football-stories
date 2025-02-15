@@ -5,9 +5,21 @@
     <article class="blog-post">
       <p class="h2 fw-semibold text-center mb-3">{{ story.title }}</p>
       <figure class="figure text-center">
-        <img [src]="story.article_photo" alt="Story Image" class="figure-img img-thumbnail img-fluid mb-2 mx-auto d-block shadow" loading="lazy">
-        <figcaption class="figure-caption mb-3 fst-italic text-center">{{story.article_photo_caption}}.</figcaption>
+        <img 
+          [src]="story.article_photo" 
+          alt="Story Image" 
+          class="figure-img img-thumbnail img-fluid mb-2 mx-auto d-block shadow"
+          loading="lazy" 
+          decode="async"
+          (load)="imageLoaded = true"
+          [style.opacity]="imageLoaded ? '1' : '0'"
+          [style.transition]="'opacity 0.5s ease-in-out'"
+        >
+        <figcaption class="figure-caption mb-3 fst-italic text-center">
+          {{ story.article_photo_caption }}.
+        </figcaption>
       </figure>
+      
       <p class="lead lh-base mt-3 text-justify">{{ story.description }}</p>
       <p class="text-end"><small class="text-muted">{{ story.date }}</small></p>
       <div class="d-flex justify-content-center">

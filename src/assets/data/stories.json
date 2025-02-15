@@ -68,6 +68,48 @@
         "article_photo_caption": "Eden Hazard lifting UEFA Champions League Trophy with Real Madrid",
         "date": "October 10, 2023",
         "category": "Players"
-    }
+    },
+    {
+        "id": 8,
+        "title": "2019 Ajax vs Tottenham",
+        "description": "In one of the most thrilling comebacks in football history, Tottenham Hotspur overcame Ajax in the 2019 UEFA Champions League semi-finals. The first leg in London ended 1-0 in favour of Ajax, but the second leg in Amsterdam looked to be slipping away from Spurs as they found themselves 3-0 down on aggregate. With just 45 minutes left in the tie, Lucas Moura delivered a stunning hat-trick to complete an incredible turnaround. His final goal, a dramatic last-minute strike, sent Tottenham to their first-ever Champions League final, where they would later face Liverpool. Ajax, the underdog darlings of the tournament, were left heartbroken, having come so close to reaching their first final since 1996. Despite the disappointment, the match remains one of the most iconic nights in the history of the competition.",
+        "cover_photo": "https://www.telegraph.co.uk/content/dam/football/2019/05/08/196494978_AP_trans_NvBQzQNjv4BqZL0WuN4qQfJQJkwo7ZzXCygi2SSWnPK2ZzN78kKypw0.jpg?imwidth=680",
+        "article_photo": "https://ak.uecdn.es/p/110/thumbnail/entry_id/0_713mw5e5/width/990/cache_st/20200210141653/type/2/bgcolor/000000/0_713mw5e5.jpg",
+        "article_photo_caption": "Lucas Moura's iconic hat-trick sends Tottenham to the final",
+        "date": "May 9, 2019",
+        "category": "Matches"
+      },
+      {
+        "id": 9,
+        "title": "The Tragedy of Chapecoense",
+        "description": "On November 28, 2016, the football world was shaken by the tragic crash of LaMia Flight 2933, which was carrying the Chapecoense football team, along with journalists and other personnel, to Medellín, Colombia, for the final of the Copa Sudamericana 2016. The plane ran out of fuel before reaching its destination and crashed into the mountainside, killing 71 people, including 19 players from the Chapecoense squad. The tragedy devastated not only the team but also the entire football community, who mourned the loss of a club that had experienced an incredible rise in Brazilian football. In recognition of the tragedy, the title of the Copa Sudamericana was posthumously awarded to Chapecoense as a tribute to the victims. Later, Chapecoense was invited to play in the famous Gamper Trophy against Barcelona, where they faced Messi's Barcelona in an emotional match that symbolized the resilience and strength of the club. Despite the heartbreaking loss, Chapecoense's spirit were on full display as the team vowed to rebuild and continue competing in honor of those who perished. The tragedy prompted an outpouring of support from around the world, with rival clubs offering help, and the football world united in tribute to the victims.",        "cover_photo": "https://static.tycsports.com/sites/default/files/nota_periodistica/636155499784226030w.jpg",
+        "article_photo": "https://grupovierci.brightspotcdn.com/dims4/default/9171224/2147483647/strip/true/crop/720x405+0+68/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-grupo-vierci.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fadjuntos%2F161%2Fimagenes%2F001%2F257%2F0001257748.jpg",
+        "article_photo_caption": "Chapecoense players before their fateful flight - A moment of joy before tragedy struck",
+        "date": "November 28, 2016",
+        "category": "Teams"
+      },
+      {
+        "id": 10,
+        "title": "The Magnificent Signal Iduna Park",
+        "description": "Signal Iduna Park, also known as Westfalenstadion, is one of the most iconic and electrifying football stadiums in the world. Located in Dortmund, Germany, it is the home of Borussia Dortmund, a club known for its passionate supporters and thrilling football. With a capacity of over 81,000 spectators, it is the largest stadium in Germany and offers one of the most intense atmospheres in global football. The 'Yellow Wall,' the famous standing section behind the goal, is a sea of yellow, with supporters creating an incredibly intimidating atmosphere for visiting teams. The stadium is not just a venue, but a fortress where unforgettable moments have been made, from incredible Bundesliga comebacks to unforgettable European nights. Signal Iduna Park is a symbol of Borussia Dortmund's unwavering commitment to their fans and their relentless pursuit of glory. It is not just a stadium, but a sacred ground where history has been written and where every match is a testament to the bond between the club and its supporters.",
+        "cover_photo": "https://i.pinimg.com/736x/c0/e5/09/c0e509a2dac822841a8a42cc943ddbfc.jpg",
+        "article_photo": "https://static01.nyt.com/athletic/uploads/wp/2024/05/29101559/GettyImages-2153530983-scaled.jpg",
+        "article_photo_caption": "Signal Iduna Park during a Borussia Dortmund home match - The Yellow Wall in full force",
+        "date": "April 2, 1974",
+        "category": "Stadiums"
+      },
+      {
+        "id": 11,
+        "title": "Ronaldinho",
+        "description": "Ronaldinho, born Ronaldo de Assis Moreira, is one of the most magical and beloved footballers in history. Known for his dazzling dribbling, incredible vision, and unmatchable flair, he captivated fans around the world and made an indelible mark on the beautiful game. After starting his career in Brazil with Grêmio, he shot to international fame at Paris Saint-Germain and later Barcelona, where he reached the peak of his powers. At Barcelona, Ronaldinho won numerous domestic and international titles, including the UEFA Champions League in 2006, and helped redefine what it meant to be a playmaker. His creativity and joy on the field made him a favorite not just among fans of his clubs, but among football lovers worldwide. His performances at the 2002 FIFA World Cup were legendary, as he helped Brazil secure its fifth title, with his stunning free-kick against England being one of the tournament’s most iconic moments. Despite moving to AC Milan later in his career, his influence in the game remains unmatched. Ronaldinho’s legacy is not just in the trophies he won, but in the magic he brought to football – a reminder that football is about more than just results, it’s about the beauty of the game.",
+        "cover_photo": "https://tmssl.akamaized.net/images/foto/galerie/ronaldinho-2005-1579094868-29862.jpg",
+        "article_photo": "https://chitra-production.s3.eu-west-2.amazonaws.com/production/images/4d7/c92682e3-1662-47f3-ba28-6279b44c74d7/ef1/ebdeaf8e-7873-45a5-9d7d-6bca06b2eef1/ronald.jpg",
+        "article_photo_caption": "Ronaldinho showcasing his dribbling skills.",
+        "date": "March 21, 1980",
+        "category": "Players"
+      }
+      
+      
+      
     
 ]
