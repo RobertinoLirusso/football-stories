@@ -18,5 +18,13 @@
     object-fit: cover; 
     object-position: center;
     pointer-events: none;
+    transition: height 0.3s ease-in-out;
   }
   
+    /* Ajustes para dispositivos móviles */
+    @media (max-width: 768px) {
+      .img-fixed {
+        object-fit: contain; 
+        height: auto; 
+      }
+    }

@@ -13,7 +13,7 @@
       
   
   <div class="flex-grow-1 container-fluid mt-4">
-    <div class="card-container" *ngIf="stories.length > 0; else noStories">
+    <div class="card-container p-4" *ngIf="stories.length > 0; else noStories">
       <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
         <div class="col" *ngFor="let story of stories">
           <div class="card h-100 card-hover shadow">

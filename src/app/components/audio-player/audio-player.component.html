@@ -1,0 +1,40 @@
+<div *ngIf="audioService.isPlayerVisible" class="audio-player position-fixed bottom-0 end-0 bg-dark text-white p-3 d-flex align-items-center rounded shadow" style="width: 400px; margin: 15px;">
+  
+  <!-- Contenedor de los botones Play/Pause y texto "Play/Pause" -->
+  <div class="d-flex flex-column align-items-center me-2">
+    <button class="btn btn-light btn-sm" (click)="togglePlayPause()">
+      <i class="bi" [ngClass]="audioService.isPlaying ? 'bi-pause-fill' : 'bi-play-fill'"></i>
+    </button>
+    <span class="small">
+      {{ audioService.isPlaying ? 'Pause' : 'Play' }}
+    </span>
+  </div>
+
+  <!-- Contenedor de los botones Next y texto "Next" -->
+  <div class="d-flex flex-column align-items-center me-2">
+    <button class="btn btn-light btn-sm" (click)="audioService.playNext()">
+      <i class="bi bi-skip-end-fill"></i>
+    </button>
+    <span class="small">Next</span>
+  </div>
+
+  <!-- Mostrar el nombre de la canción solo si está reproduciendo -->
+  <span class="small text-truncate d-flex align-items-center" *ngIf="audioService.isPlaying" style="max-width: 180px; margin-left: 10px;">
+    🎵 {{ audioService.getCurrentTrackName() }}
+  </span>
+
+  <!-- Botón para ocultar el reproductor -->
+  <div class="d-flex flex-column align-items-center ms-auto">
+    <button class="btn btn-light btn-sm" (click)="audioService.togglePlayerVisibility()">
+      <i class="bi bi-x-circle-fill"></i>
+    </button>
+    <span class="small">Hide</span>
+  </div>
+</div>
+
+<!-- Botón para mostrar el reproductor si está oculto -->
+<div *ngIf="!audioService.isPlayerVisible" class="position-fixed bottom-0 end-0 m-3">
+  <button class="btn btn-dark btn-sm d-flex align-items-center" (click)="audioService.togglePlayerVisibility()">
+    <i class="bi bi-play-circle-fill me-1"></i> Show Player
+  </button>
+</div>

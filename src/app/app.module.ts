@@ -10,6 +10,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { StoryDetailComponent } from './pages/story-detail/story-detail.component';
 import { HttpClientModule, provideHttpClient, withFetch } from '@angular/common/http';
 import { StoriesComponent } from './pages/stories/stories.component';
+import { AudioPlayerComponent } from './components/audio-player/audio-player.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { StoriesComponent } from './pages/stories/stories.component';
     NotfoundComponent,
     FooterComponent,
     StoryDetailComponent,
-    StoriesComponent
+    StoriesComponent,
+    AudioPlayerComponent
   ],
   imports: [
     BrowserModule,

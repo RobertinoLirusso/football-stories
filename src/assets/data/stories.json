@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "title": "2019 Ajax vs Tottenham",
+        "title": "Tottenham’s Greatest Comeback",
         "description": "In one of the most thrilling comebacks in football history, Tottenham Hotspur overcame Ajax in the 2019 UEFA Champions League semi-finals. The first leg in London ended 1-0 in favour of Ajax, but the second leg in Amsterdam looked to be slipping away from Spurs as they found themselves 3-0 down on aggregate. With just 45 minutes left in the tie, Lucas Moura delivered a stunning hat-trick to complete an incredible turnaround. His final goal, a dramatic last-minute strike, sent Tottenham to their first-ever Champions League final, where they would later face Liverpool. Ajax, the underdog darlings of the tournament, were left heartbroken, having come so close to reaching their first final since 1996. Despite the disappointment, the match remains one of the most iconic nights in the history of the competition.",
         "cover_photo": "https://www.telegraph.co.uk/content/dam/football/2019/05/08/196494978_AP_trans_NvBQzQNjv4BqZL0WuN4qQfJQJkwo7ZzXCygi2SSWnPK2ZzN78kKypw0.jpg?imwidth=680",
         "article_photo": "https://ak.uecdn.es/p/110/thumbnail/entry_id/0_713mw5e5/width/990/cache_st/20200210141653/type/2/bgcolor/000000/0_713mw5e5.jpg",
@@ -107,7 +107,94 @@
         "article_photo_caption": "Ronaldinho showcasing his dribbling skills.",
         "date": "March 21, 1980",
         "category": "Players"
+      },
+      {
+        "id": 12,
+        "title": "Didier Drogba",
+        "description": "Didier Drogba is one of the greatest strikers in football history and a true legend of Chelsea Football Club. Born in Ivory Coast, Drogba's journey to greatness was marked by resilience, determination, and a knack for scoring in crucial moments. After excelling at Marseille, he joined Chelsea in 2004, where he became the club’s all-time greatest big-game player. Drogba was instrumental in Chelsea’s success, leading them to multiple Premier League titles, FA Cups, and the historic 2012 UEFA Champions League triumph. His equalizing goal in the final against Bayern Munich and the decisive penalty in the shootout cemented his legacy as a Chelsea icon. Beyond football, Drogba played a key role in bringing peace to Ivory Coast during a civil war, using his influence to unite the nation. His impact on and off the pitch remains unparalleled, making him not just a footballing hero but a global ambassador for the sport.",
+        "cover_photo": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/10/26/17/drogba-3.jpg",
+        "article_photo": "https://www.kodromagazine.com/wp-content/uploads/2021/12/Drogba-1.jpg",
+        "article_photo_caption": "Drogba, the national hero, playing for Ivory Coast while inspiring peace and reconciliation during the civil war.",
+        "date": "March 11, 1978",
+        "category": "Players"
+      },
+      {
+        "id": 13,
+        "title": "La Décima",
+        "description": "After twelve years of longing, Real Madrid finally conquered their long-awaited tenth UEFA Champions League title, known as 'La Décima.' The final, played on May 24, 2014, at the Estádio da Luz in Lisbon, saw Los Blancos face their city rivals, Atlético Madrid. Diego Godín’s early goal seemed to have sealed Atlético’s first European title, but in the 93rd minute, Sergio Ramos scored a legendary header to force extra time. With the momentum on their side, Real Madrid dominated the extra period, scoring three more goals through Gareth Bale, Marcelo, and a Cristiano Ronaldo penalty. The 4-1 victory marked an emotional and historic night for Madridistas worldwide, as they finally put an end to their twelve-year wait and reaffirmed their European dominance.",
+        "cover_photo": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/05/23/15586329809983.jpg",
+        "article_photo": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/05/10/3700866-75307248-2560-1440.jpg",
+        "article_photo_caption": "Sergio Ramos' historic 93rd-minute header kept Madrid’s hopes alive.",
+        "date": "May 24, 2014",
+        "category": "Matches"
+      },
+      {
+        "id": 14,
+        "title": "Wembley: The Home of Football",
+        "description": "Wembley Stadium is more than just a football venue; it is a cathedral of the sport, a place where history is written. Originally opened in 1923, the old Wembley became the iconic home of English football, hosting unforgettable moments like England’s 1966 World Cup triumph. The Twin Towers symbolized the magic of the stadium until its demolition in 2003. The new Wembley, inaugurated in 2007, stands as a modern marvel with its famous arch dominating the London skyline. With a capacity of 90,000, it has hosted historic Champions League finals, FA Cup showdowns, and England’s most memorable international matches. Wembley remains the heart of football, a place where legends are made, and dreams come true.",
+        "cover_photo": "https://resources.insidersport.com/insidersport/2023/10/Shutterstock_2140026831.jpg",
+        "article_photo": "https://populous.com/uploads/2024/05/Wembley_1-1200x675-c-center.jpg",
+        "article_photo_caption": "Wembley Stadium hosting a FA Cup Final",
+        "date": "March 9, 2007",
+        "category": "Stadiums"
+      },
+      {
+        "id": 15,
+        "title": "Battle of Lusail",
+        "description": "The 2022 FIFA World Cup quarterfinal match between Argentina and the Netherlands was a dramatic and controversial encounter. Argentina led 2-0 with goals from Nahuel Molina and Lionel Messi, but the Netherlands mounted a late comeback, scoring twice in the final minutes through Wout Weghorst, including a controversial last-minute free kick. The match was marked by high tension and physical play, with several yellow cards issued. Argentina ultimately triumphed 4-3 in a penalty shootout after a 2-2 draw. Lionel Messi and Emiliano Martínez were key figures, with Messi providing an assist and Martínez saving two crucial penalties. The match is remembered for its emotional intensity and contentious refereeing decisions.",
+        "cover_photo": "https://cdn.vox-cdn.com/thumbor/7GhhiihDl0mYgnUvHqNWIv4QVfQ=/0x0:2760x1904/1200x800/filters:focal(1229x196:1669x636)/cdn.vox-cdn.com/uploads/chorus_image/image/71734469/1245488397.0.jpg",
+        "article_photo": "https://phantom-marca-us.unidadeditorial.es/9839484f390147b3b81248e2b089be60/resize/828/f/jpg/assets/multimedia/imagenes/2022/12/10/16706343297939.jpg",
+        "article_photo_caption": "Argentina's dramatic penalty shootout victory sends them to the semifinals.",
+        "date": "December 9, 2022",
+        "category": "Matches"
+      },
+      {
+        "id": 16,
+        "title": "The Mythical Parma of the 90's",
+        "description": "In the 1990s, Parma became one of the most formidable clubs in Europe, capturing the imagination of football fans with their dynamic style and unexpected success. Under the guidance of coach Nevio Scala, the club, once a Serie B team, achieved a meteoric rise to the top of Italian football. The Parma squad boasted an impressive mix of experience and youth, including legendary players such as Gianluigi Buffon, Fabio Cannavaro, Alessandro Melli, and the prolific Hernán Crespo. Parma’s golden era was marked by their triumphs on both domestic and international fronts. They won the UEFA Cup in 1995 and 1999, defeating Juventus and Olympique Marseille, respectively, solidifying their reputation as a European powerhouse. In addition to the UEFA Cup, Parma clinched the Coppa Italia in 1992, the Italian Super Cup in 1999, and the Recopa de Europa in 1993. The club also added the Supercoppa Europea to their trophy cabinet in 1993 after beating the mighty AC Milan. Parma’s success was built on a solid defensive core, with players like Cannavaro, Alessandro Nesta, and Roberto Sensini, as well as a midfield composed of talented players such as Dino Baggio and the legendary Hristo Stoichkov. Their 1999 UEFA Cup victory remains one of the high points of their 90s golden era, cementing Parma’s place as one of Italy’s most celebrated clubs.",
+        "cover_photo": "https://www.sportball.es/wp-content/uploads/2016/08/soccer-uefa-cup-final-parma-v-olympique-marseille-moscow.jpg",
+        "article_photo": "https://i0.wp.com/thesefootballtimes.co/wp-content/uploads/2016/11/parma.jpg?fit=1730%2C1080&ssl=1",
+        "article_photo_caption": "Parma’s historic UEFA Cup victory in 1999 marked the peak of their 90s glory.",
+        "date": "May 19, 1999",
+        "category": "Teams"
+      },
+      {
+        "id": 17,
+        "title": "Adriano",
+        "description": "Adriano Leite Ribeiro, known simply as Adriano, was one of the most gifted and physically dominant forwards to ever grace the football field. Born in Rio de Janeiro, Brazil, Adriano’s rise to stardom was nothing short of meteoric. His powerful shots, incredible strength, and natural flair for the game made him one of the most feared strikers in the early 2000s. At the age of 21, he joined Inter Milan, where he would go on to achieve some of his most memorable moments. Adriano's peak came during the 2004-2005 season, where he was hailed as one of the top strikers in the world. His breathtaking goals, including his famous long-range strike against the mighty Juventus, solidified his place as a top talent in European football. At the international level, Adriano represented Brazil, winning the Copa América in 2004 and the Confederations Cup in 2005, further establishing his reputation. However, despite all his talent, Adriano’s career took a tragic turn due to off-field issues. Struggling with personal problems, including the loss of his father, Adriano’s once-promising career began to unravel. His weight fluctuated, his fitness levels dropped, and injuries started to take their toll. Adriano’s decline was a heartbreaking reminder of how personal demons can impact even the most talented players. He eventually returned to Brazil, playing for clubs like Flamengo, Corinthians, and Atlético Paranaense, but he was never able to regain the form that once made him one of the best strikers in the world. Adriano’s story is both a testament to raw talent and a cautionary tale of the fragility of professional football careers.",
+        "cover_photo": "https://i2-prod.mirror.co.uk/incoming/article4570001.ece/ALTERNATES/n615/0_Adriano.jpg",
+        "article_photo": "https://media.cnn.com/api/v1/images/stellar/prod/cnne-1780644-copia-de-foto-para-wp-2024-11-13t102741-546.jpg?c=16x9&q=h_833,w_1480,c_fill",
+        "article_photo_caption": "Adriano during his prime at Inter Milan, where he became one of the world’s top strikers.",
+        "date": "February 17, 1982",
+        "category": "Players"
+      },
+      {
+        "id": 18,
+        "title": "Jay-Jay Okocha",
+        "description": "Augustine Azuka Jay-Jay Okocha was a footballer whose skills and flair on the field captured the imagination of fans around the world. Born in Enugu, Nigeria, Okocha rose to prominence as one of Africa's most talented midfielders. Known for his exceptional dribbling, creativity, and vision, Okocha became a symbol of Nigerian football during his time. His technical ability was unrivaled, and his dazzling footwork left defenders and goalkeepers helpless. After an early career in the Nigerian league, he moved to Europe, where he played for top clubs such as Eintracht Frankfurt, Paris Saint-Germain, and Bolton Wanderers. Okocha’s time at PSG was particularly memorable, as he formed part of a dynamic attacking midfield that made the French side a formidable force. But it was his stint at Bolton Wanderers in the English Premier League that cemented his place in Premier League folklore. Okocha’s performances at Bolton, often described as magical, were a testament to his talent and determination. He was instrumental in helping Bolton achieve their best-ever finish in the Premier League, securing UEFA Cup qualification. At the international level, Okocha was a star for the Nigerian national team, representing his country in multiple Africa Cup of Nations tournaments and FIFA World Cups. His achievements include winning the Africa Cup of Nations in 1994 and leading Nigeria to Olympic gold in 1996. Okocha’s impact was not just about trophies and accolades but about his style and the joy he brought to fans worldwide. With his flair, charisma, and infectious smile, Okocha will always be remembered as one of Africa's greatest ever players.",
+        "cover_photo": "https://tmssl.akamaized.net/images/foto/galerie/jay-jay-okocha-bolton-wanderers-1563022800-23583.jpg",
+        "article_photo": "https://resources.premierleague.pulselive.com/photo-resources/2024/10/23/e156aefb-f6f6-48ff-a585-3868fbb310e3/Okocha-Beckham.jpg?width=1400&height=800",
+        "article_photo_caption": "Okocha in action playing for homecountry Nigeria at 2002 FIFA World Cup.",
+        "date": "August 14, 1973",
+        "category": "Players"
+      },
+      {
+        "id": 19,
+        "title": "Montpellier's surprise Ligue 1 title",
+        "description": "The 2011-2012 Ligue 1 season was nothing short of a fairytale for Montpellier Hérault SC. Known as a small club in the south of France, Montpellier shocked the footballing world by clinching their first-ever Ligue 1 title. Under the guidance of their manager René Girard, Montpellier defied expectations and held off the more heavily funded and star-studded clubs, including Paris Saint-Germain and Olympique Lyonnais, to win the league. With a squad that included relatively unknown players, Montpellier's remarkable campaign was built on solid defense, team unity, and the brilliance of their top scorer, Olivier Giroud. Giroud, who would go on to become one of France's top strikers, finished the season with 21 goals and was instrumental in his team's success. Montpellier’s victory was also marked by the performances of Younès Belhanda and Mapou Yanga-Mbiwa, who provided vital contributions throughout the season. What made Montpellier's triumph so special was the club’s ability to maintain consistency, despite the financial disparity between them and the bigger clubs. Girard’s tactics were effective, allowing Montpellier to grind out important results week after week, with crucial wins over their direct rivals. When Montpellier secured their title on the final day of the season, it was a moment of immense joy and disbelief for the club and their supporters. The victory was a testament to the power of teamwork, hard work, and belief, and Montpellier’s 2012 Ligue 1 win remains one of the most surprising and heartwarming stories in modern French football.",
+        "cover_photo": "https://www.sofoot.com/convert/aHR0cHM6Ly9zb2Zvb3QuczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vbGVnYWN5L0lNRy9zb2Zvb3RfYXJ0aWNsZXMvbG9nb18xNTcwOTgucG5n/image/montpellier-les-cinq-hommes-du-titre.jpg",
+        "article_photo": "https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/Montpelliers-football-club-players-cele-94d96dbbfcdc2ba7fe4d3032139e8d4d.jpg",
+        "article_photo_caption": "Montpellier HSC players celebrating their stunning 2012 Ligue 1 title win.",
+        "date": "May 20, 2012",
+        "category": "Teams"
       }
+      
+      
+      
+      
+       
+      
+      
       
       
       
