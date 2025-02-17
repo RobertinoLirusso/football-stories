@@ -31,7 +31,7 @@
     },
     {
         "id": 4,
-        "title": "The Shared Throne of Milan",
+        "title": "San Siro/Giuseppe Meazza",
         "description": "In the heart of Milan stands one of football’s most legendary arenas, known by two names: San Siro for AC Milan fans and Giuseppe Meazza for Inter Milan supporters. Since its inauguration, this iconic stadium has been the battleground for countless historic matches, witnessing the triumphs and heartbreaks of both clubs. Home to legendary players and unforgettable moments, its electrifying atmosphere makes it one of the most revered venues in world football. Whether painted in red and black or blue and black, San Siro remains a temple of passion, tradition, and footballing greatness.",
         "cover_photo": "https://www.theneweuropean.co.uk/wp-content/uploads/sites/2/2023/05/GettyImages-1129453765.jpg",
         "article_photo": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0512%2Fr1172264_1296x729_16%2D9.jpg",
@@ -90,7 +90,7 @@
       },
       {
         "id": 10,
-        "title": "The Magnificent Signal Iduna Park",
+        "title": "Westfalenstadion - Signal Iduna Park",
         "description": "Signal Iduna Park, also known as Westfalenstadion, is one of the most iconic and electrifying football stadiums in the world. Located in Dortmund, Germany, it is the home of Borussia Dortmund, a club known for its passionate supporters and thrilling football. With a capacity of over 81,000 spectators, it is the largest stadium in Germany and offers one of the most intense atmospheres in global football. The 'Yellow Wall,' the famous standing section behind the goal, is a sea of yellow, with supporters creating an incredibly intimidating atmosphere for visiting teams. The stadium is not just a venue, but a fortress where unforgettable moments have been made, from incredible Bundesliga comebacks to unforgettable European nights. Signal Iduna Park is a symbol of Borussia Dortmund's unwavering commitment to their fans and their relentless pursuit of glory. It is not just a stadium, but a sacred ground where history has been written and where every match is a testament to the bond between the club and its supporters.",
         "cover_photo": "https://i.pinimg.com/736x/c0/e5/09/c0e509a2dac822841a8a42cc943ddbfc.jpg",
         "article_photo": "https://static01.nyt.com/athletic/uploads/wp/2024/05/29101559/GettyImages-2153530983-scaled.jpg",
@@ -130,7 +130,7 @@
       },
       {
         "id": 14,
-        "title": "Wembley: The Home of Football",
+        "title": "Wembley",
         "description": "Wembley Stadium is more than just a football venue; it is a cathedral of the sport, a place where history is written. Originally opened in 1923, the old Wembley became the iconic home of English football, hosting unforgettable moments like England’s 1966 World Cup triumph. The Twin Towers symbolized the magic of the stadium until its demolition in 2003. The new Wembley, inaugurated in 2007, stands as a modern marvel with its famous arch dominating the London skyline. With a capacity of 90,000, it has hosted historic Champions League finals, FA Cup showdowns, and England’s most memorable international matches. Wembley remains the heart of football, a place where legends are made, and dreams come true.",
         "cover_photo": "https://resources.insidersport.com/insidersport/2023/10/Shutterstock_2140026831.jpg",
         "article_photo": "https://populous.com/uploads/2024/05/Wembley_1-1200x675-c-center.jpg",
@@ -187,9 +187,58 @@
         "article_photo_caption": "Montpellier HSC players celebrating their stunning 2012 Ligue 1 title win.",
         "date": "May 20, 2012",
         "category": "Teams"
+      },
+      {
+        "id": 20,
+        "title": "The Stamford Bridge Controversy",
+        "description": "One of the most controversial matches in Champions League history took place on May 6, 2009, at Stamford Bridge. Chelsea and Barcelona clashed in the second leg of the semifinals, with a spot in the final at stake. After a goalless draw in the first leg, Michael Essien opened the scoring with a stunning volley, giving Chelsea the advantage. However, the match became infamous for a series of controversial decisions by referee Tom Henning Øvrebø, as Chelsea had multiple penalty appeals denied. Barcelona struggled to break through, but in stoppage time, Andrés Iniesta scored a spectacular goal from the edge of the box, securing a 1-1 draw and sending Barcelona to the final on away goals. The match ended in chaos, with furious Chelsea players surrounding the referee, and Didier Drogba's infamous outburst, 'It's a disgrace!' becoming an iconic moment. The controversy surrounding this match remains one of the most debated in football history.",
+        "cover_photo": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0506%2Fr696125_1296x729_16%2D9.jpg",
+        "article_photo": "https://www.telegraph.co.uk/multimedia/archive/01398/didier_drogba-ref_1398135i.jpg",
+        "article_photo_caption": "Didier Drogba and Chelsea players furiously reacts after the final whistle in one of the most controversial matches in Champions League history.",
+        "date": "May 6, 2009",
+        "category": "Matches"
+      },
+      {
+        "id": 21,
+        "title": "La Remontada",
+        "description": "On March 8, 2017, FC Barcelona pulled off one of the greatest comebacks in football history against Paris Saint-Germain in the UEFA Champions League Round of 16. After suffering a crushing 4-0 defeat in the first leg in Paris, Barcelona faced an almost impossible task in the return leg at the Camp Nou. The Catalans started strong, with an early goal from Luis Suárez, followed by an own goal from Layvin Kurzawa, and a Lionel Messi penalty, bringing them within one goal of leveling the tie. However, Edinson Cavani's away goal in the 62nd minute seemed to have ended Barcelona’s hopes, as they now needed three more goals to advance. With just minutes remaining, Neymar took center stage, scoring a stunning free-kick in the 88th minute and converting a penalty in the 91st. In the dying seconds, Neymar delivered a perfect assist to Sergi Roberto, who scored the historic 6-1 goal in the 95th minute, completing the most dramatic comeback ever witnessed in the competition. The Camp Nou erupted in celebration as Barcelona overturned the 4-0 deficit, winning 6-5 on aggregate and cementing this match as one of the most unforgettable in Champions League history.",
+        "cover_photo": "https://assets.goal.com/images/v3/bltd95b36928c1fba44/094d17236428bfd955006641cb48f6598f6ea748.jpg",
+        "article_photo": "https://barcauniversal.com/wp-content/uploads/2021/02/fc-barcelona-v-paris-saint-germain-uefa-champions-league-round-of-16-second-leg-3-1-1024x683.jpg",
+        "article_photo_caption": "Messi and Neymar Jr celebrating Barcelona’s historic comeback.",
+        "date": "March 8, 2017",
+        "category": "Matches"
+      },
+      {
+        "id": 22,
+        "title": "Stadio Delle Alpi",
+        "description": "Built for the 1990 FIFA World Cup, the Stadio Delle Alpi was meant to be a modern footballing cathedral in Turin, home to Juventus and Torino. Despite its grandeur, the stadium was heavily criticized for its poor fan experience, with a running track that distanced supporters from the pitch. While it witnessed legendary players like Alessandro Del Piero, Zinedine Zidane, and Pavel Nedvěd, Juventus ultimately decided to demolish it in 2006. By 2011, the more intimate and electrifying Juventus Stadium was built in its place, leaving Delle Alpi as a bittersweet memory in Italian football history.",
+        "cover_photo": "https://pbs.twimg.com/media/EYiWyh8XgAAziw5.jpg",
+        "article_photo": "https://cogelamochila.com/wp-content/uploads/2020/11/delle-alpi_1_orig.jpg",
+        "article_photo_caption": "The Stadio Delle Alpi, an ambitious project that never truly felt like home.",
+        "date": "September, 1990",
+        "category": "Stadiums"
+      },
+      {
+        "id": 23,
+        "title": "The Miracle of Istanbul",
+        "description": "The 2005 UEFA Champions League final between Liverpool and AC Milan is etched in football folklore as the 'Miracle of Istanbul.' Played on May 25, 2005, at the Atatürk Olympic Stadium, the match saw Liverpool produce one of the greatest comebacks in the history of the sport. AC Milan took a commanding 3-0 lead in the first half, with goals from Paolo Maldini and a Hernán Crespo brace. However, Liverpool mounted an incredible second-half fightback, scoring three goals in six minutes through Steven Gerrard, Vladimír Šmicer, and Xabi Alonso. The match went to extra time and then penalties, where Liverpool goalkeeper Jerzy Dudek became the hero, saving two spot-kicks to secure a 3-2 shootout victory. Liverpool's triumph was a testament to their spirit, resilience, and never-say-die attitude, making it one of the most memorable finals in Champions League history.",
+        "cover_photo": "https://img.redbull.com/images/c_crop,w_968,h_484,x_0,y_0/c_auto,w_1200,h_600/f_auto,q_auto/redbullcom/2019/06/19/1fceaac4-9b4e-4075-87d6-ff91a572b77f/liverpool-2005",
+        "article_photo": "https://editorial.uefa.com/resources/025d-0f707a42f790-20435b4b3e75-1000/uefa_champions_league_final_-_ac_milan_v_liverpool.jpeg",
+        "article_photo_caption": "Shevchenko against Dudek during penalty shootout.",
+        "date": "May 25, 2005",
+        "category": "Matches"
+      },
+      {
+        "id": 24,
+        "title": "The Galacticos Era",
+        "description": "During the late 1990s and early 2000s, Real Madrid assembled a star-studded team known as 'Los Galacticos'. Under the visionary leadership of President Florentino Pérez, the club signed world-class talents such as Zinedine Zidane, Luís Figo, Ronaldo, David Beckham, and Roberto Carlos. Their arrival brought unprecedented glamour and sky-high expectations to the Santiago Bernabéu, as the team dazzled fans worldwide with mesmerizing skills and unforgettable moments on the pitch. The era reached its pinnacle with the 2002 UEFA Champions League triumph—highlighted by Zidane's iconic volley in the final—as well as multiple La Liga titles and a host of domestic cups that underscored the team's dominance. Although the era was not without controversy, with critics arguing that the focus on star power sometimes compromised team balance, the legacy of the Galacticos remains an iconic chapter in football history, inspiring generations of players and fans alike.",
+        "cover_photo": "https://okdiario.com/diariomadridista/img/2021/07/29/galacticos-1.jpg",
+        "article_photo": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/02/27/1424941-30495595-2560-1440.jpg",
+        "article_photo_caption": "A glimpse of the star-studded Galacticos, whose brilliance defined an era.",
+        "date": "June 2003",
+        "category": "Teams"
       }
-      
-      
+           
       
       
        

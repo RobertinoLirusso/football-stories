@@ -13,10 +13,10 @@ export class StoriesComponent implements OnInit {
   category: 'matches' | 'players' | 'teams' | 'stadiums' | null = null; // Asegurar que el tipo es válido
 
   categoryDescriptions: { [key: string]: string } = {
-    matches: 'Relive the most exciting and memorable matches.',
-    players: 'Discover the history and careers of legendary players.',
-    teams: 'Explore the most iconic teams and their football legacy.',
-    stadiums: 'Learn about the most famous stadiums and their history.',
+    matches: 'Relive the most exciting and memorable matches',
+    players: 'Discover the history and careers of legendary players',
+    teams: 'Explore the most iconic, forgotten and extraordinary teams and their football legacy',
+    stadiums: 'Learn about the most famous stadiums and their history',
   };
 
   constructor(private route: ActivatedRoute, private storyService: StoryService) {}
