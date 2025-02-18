@@ -237,7 +237,30 @@
         "article_photo_caption": "A glimpse of the star-studded Galacticos, whose brilliance defined an era.",
         "date": "June 2003",
         "category": "Teams"
+      },
+      {
+        "id": 25,
+        "title": "The 8-2 Catastrophe",
+        "description": "In one of the most humiliating defeats in recent football history, FC Barcelona was utterly crushed 8-2 by Bayern Munich in the 2020 UEFA Champions League quarterfinals. The match, held in Lisbon due to the pandemic, quickly became an unforgettable spectacle. Bayern Munich's ruthless attacking power, led by the imperious Robert Lewandowski, overwhelmed Barcelona’s porous defense from the start. The first half saw Bayern race to a 4-1 lead, with goals from Thomas Müller, Ivan Perišić, and a brace from the clinical Lewandowski. Barcelona's goals came from the ever-reliable Luis Suarez and an own goal from Alaba. In the second half, Bayern showed no mercy, with another four goals, including a stunning strike from Philippe Coutinho, who was on loan from Barcelona. The Catalan giants' defense was left in disarray, with errors and lackluster performances from key players, most notably Gerard Piqué, who later admitted the team needed a major overhaul. This crushing defeat not only ended Barcelona’s Champions League campaign but also symbolized the end of an era for the club, triggering massive changes within the team and management. The loss was a wake-up call that led to significant rebuilding efforts, reshaping the future of the club in the years to come.",
+        "cover_photo": "https://media.minutouno.com/p/3751510b750456d56485587807b33a97/adjuntos/150/imagenes/037/955/0037955034/1200x675/smart/champions-league-bayern-munich-8-barcelona-2.jpg",
+        "article_photo": "https://i.ytimg.com/vi/nMt56fQKLIQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCqCmex3Yi-5P0g4nszhfRwV3OQTQ",
+        "article_photo_caption": "Historic scoreboard from Estádio José Alvalade",
+        "date": "August 2020",
+        "category": "Matches"
+      },
+      {
+        "id": 26,
+        "title": "The Eternal Final in Madrid",
+        "description": "The 2018 Copa Libertadores final between Boca Juniors and River Plate became one of the most iconic and emotional matches in South American football history. Originally set to be played in Buenos Aires, the match was moved to Madrid due to violent incidents surrounding the first leg, which created an intense and controversial atmosphere. The second leg, held at the Santiago Bernabéu Stadium on December 9, 2018, was a spectacle that captivated football fans worldwide. Boca Juniors had a 1-0 advantage from the first leg and were looking to claim their seventh Libertadores title, but River Plate, under the tactical brilliance of manager Marcelo Gallardo, had other plans. River Plate mounted a thrilling comeback in the second half, overturning the deficit with three goals, including a stunning brace from Gonzalo 'Pity' Martínez, who sealed the victory with a breakaway goal in injury time. The final score was 3-1 in favor of River Plate, giving them their fourth Copa Libertadores title. The match featured moments of high drama, including a controversial handball incident and a late penalty that went uncalled. The atmosphere at the Santiago Bernabéu was electric, with both teams’ supporters creating a tense, unforgettable scene. River Plate's victory not only marked the culmination of a legendary comeback, but it also symbolized a new chapter for the club, with Gallardo solidifying his legacy as one of South America's greatest managers. For Boca Juniors, the defeat was a crushing blow, as they failed to secure the coveted title despite having the upper hand. This final, played on foreign soil, forever cemented the rivalry between these two giants of Argentine football as one of the greatest in the sport’s history.",
+        "cover_photo": "https://img2.rtve.es/i/?w=800&i=1544394332522.jpg&crop=yes",
+        "article_photo": "https://media.tycsports.com/files/2021/12/09/369777/river-boca-la-final-de-la-copa-libertadores-en-madrid-2018_w862.jpg",
+        "article_photo_caption": "River Plate players celebrating with the Copa Libertadores trophy at Santiago Bernabeú Stadium.",
+        "date": "December 9, 2018",
+        "category": "Matches"
       }
+      
+      
+
            
       
       
