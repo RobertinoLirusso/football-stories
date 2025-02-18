@@ -1,5 +1,5 @@
 figure {
-    width: 100%; /* Ocupa todo el ancho del contenedor */
+    width: 100%;
     margin: 0;
     padding: 0;
     border: none;
@@ -12,9 +12,18 @@ figure img {
     width: 100%; 
     height: auto; 
     max-height: 600px; 
-    object-fit: cover; 
+    object-fit: cover;
 }
 
-figure figcaption {
-    margin-top: 8px;
+/* Ajustes para pantallas pequeñas (móviles) */
+@media (max-width: 768px) {
+    figure img {
+        width: 90vw; /* Aumenta el tamaño en móviles */
+        max-height: 400px; /* Ajusta la altura para evitar imágenes demasiado pequeñas */
+    }
+
+    .container-fluid.px-5 {
+        padding-left: 1rem !important; 
+        padding-right: 1rem !important; 
+    }
 }

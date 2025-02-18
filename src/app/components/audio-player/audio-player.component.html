@@ -1,8 +1,7 @@
 <div *ngIf="audioService.isPlayerVisible" 
-  class="audio-player position-fixed bottom-0 end-0 bg-dark text-white p-3 d-flex align-items-center rounded shadow w-100" 
-  style="max-width: 400px; margin: 15px;">
+  class="audio-player position-fixed bottom-0 end-0 bg-dark text-white p-3 d-flex align-items-center w-100 rounded shadow flex-wrap">
 
-  <!-- Contenedor de los botones Play/Pause y texto "Play/Pause" -->
+  <!-- Contenedor de los botones Play/Pause y texto -->
   <div class="d-flex flex-column align-items-center me-2">
     <button class="btn btn-light btn-sm" (click)="togglePlayPause()">
       <i class="bi" [ngClass]="audioService.isPlaying ? 'bi-pause-fill' : 'bi-play-fill'"></i>
@@ -10,7 +9,7 @@
     <span class="small">{{ audioService.isPlaying ? 'Pause' : 'Play' }}</span>
   </div>
 
-  <!-- Contenedor de los botones Next y texto "Next" -->
+  <!-- Botón Next -->
   <div class="d-flex flex-column align-items-center me-2">
     <button class="btn btn-light btn-sm" (click)="audioService.playNext()">
       <i class="bi bi-skip-end-fill"></i>
@@ -18,12 +17,13 @@
     <span class="small">Next</span>
   </div>
 
-  <!-- Mostrar el nombre de la canción solo si está reproduciendo -->
-  <span class="small text-truncate d-flex align-items-center flex-grow-1" *ngIf="audioService.isPlaying" style="max-width: 180px; margin-left: 10px;">
+  <!-- Mostrar el nombre de la canción -->
+  <span class="small text-truncate d-flex align-items-center flex-grow-1" 
+        *ngIf="audioService.isPlaying">
     🎵 {{ audioService.getCurrentTrackName() }}
   </span>
 
-  <!-- Botón para ocultar el reproductor -->
+  <!-- Botón de cerrar -->
   <div class="d-flex flex-column align-items-center ms-auto">
     <button class="btn btn-light btn-sm" (click)="audioService.togglePlayerVisibility()">
       <i class="bi bi-x-circle-fill"></i>
@@ -32,7 +32,7 @@
   </div>
 </div>
 
-<!-- Botón para mostrar el reproductor si está oculto -->
+<!-- Botón para mostrar el reproductor -->
 <div *ngIf="!audioService.isPlayerVisible" class="position-fixed bottom-0 end-0 m-3">
   <button class="btn btn-dark btn-sm d-flex align-items-center" (click)="audioService.togglePlayerVisibility()">
     <i class="bi bi-play-circle-fill me-1"></i> Show Player

@@ -1,0 +1,39 @@
+.audio-player {
+  max-width: 400px;
+  margin: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 10px; /* Espacio entre los elementos */
+}
+
+@media (max-width: 576px) {
+  .audio-player {
+    max-width: 95% !important;  /* Ajuste del ancho para móviles */
+    margin: 10px;
+  }
+
+  .audio-player .d-flex {
+    flex-direction: column; /* Los botones y texto se apilan verticalmente */
+    align-items: center;    /* Centrar los botones */
+  }
+
+  .audio-player .btn {
+    font-size: 0.8rem; /* Reducir el tamaño de los botones */
+    padding: 5px;      /* Reducir el padding de los botones */
+  }
+
+  .audio-player .small {
+    font-size: 0.75rem; /* Reducir el tamaño del texto */
+  }
+
+  .audio-player span {
+    white-space: nowrap; /* Evitar que el texto se rompa */
+    text-overflow: ellipsis; /* Mostrar "..." si el texto es demasiado largo */
+  }
+
+  .audio-player .flex-grow-1 {
+    overflow: hidden; /* Evitar que el nombre de la canción se desborde */
+    text-overflow: ellipsis;
+  }
+}

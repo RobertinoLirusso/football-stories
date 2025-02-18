@@ -6,11 +6,7 @@
     transform: translateY(-10px);
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
   }
-  
 
-  .card-container {
-    padding: 60px;
-  }
 
   .img-fixed {
     width: 100%; 
