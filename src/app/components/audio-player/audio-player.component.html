@@ -1,13 +1,13 @@
-<div *ngIf="audioService.isPlayerVisible" class="audio-player position-fixed bottom-0 end-0 bg-dark text-white p-3 d-flex align-items-center rounded shadow" style="width: 400px; margin: 15px;">
-  
+<div *ngIf="audioService.isPlayerVisible" 
+  class="audio-player position-fixed bottom-0 end-0 bg-dark text-white p-3 d-flex align-items-center rounded shadow w-100" 
+  style="max-width: 400px; margin: 15px;">
+
   <!-- Contenedor de los botones Play/Pause y texto "Play/Pause" -->
   <div class="d-flex flex-column align-items-center me-2">
     <button class="btn btn-light btn-sm" (click)="togglePlayPause()">
       <i class="bi" [ngClass]="audioService.isPlaying ? 'bi-pause-fill' : 'bi-play-fill'"></i>
     </button>
-    <span class="small">
-      {{ audioService.isPlaying ? 'Pause' : 'Play' }}
-    </span>
+    <span class="small">{{ audioService.isPlaying ? 'Pause' : 'Play' }}</span>
   </div>
 
   <!-- Contenedor de los botones Next y texto "Next" -->
@@ -19,7 +19,7 @@
   </div>
 
   <!-- Mostrar el nombre de la canción solo si está reproduciendo -->
-  <span class="small text-truncate d-flex align-items-center" *ngIf="audioService.isPlaying" style="max-width: 180px; margin-left: 10px;">
+  <span class="small text-truncate d-flex align-items-center flex-grow-1" *ngIf="audioService.isPlaying" style="max-width: 180px; margin-left: 10px;">
     🎵 {{ audioService.getCurrentTrackName() }}
   </span>
 

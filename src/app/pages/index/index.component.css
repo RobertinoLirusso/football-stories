@@ -23,5 +23,19 @@
       object-fit: contain; 
       height: auto; 
     }
+    
+    .container-fluid {
+      min-height: 180px !important;
+      background-position: top center !important;
+    }
+    .row {
+      min-height: 180px !important; 
+    }
+    h2 {
+      font-size: 1.8rem !important; 
+    }
+    p {
+      font-size: 1rem !important;
+    }
   }
   
