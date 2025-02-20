@@ -18,7 +18,7 @@
   </div>
 
   <!-- Mostrar el nombre de la canción -->
-  <span class="small text-truncate d-flex align-items-center flex-grow-1" 
+  <span class="small text-truncate d-flex align-items-center flex-grow-1 song-name" 
         *ngIf="audioService.isPlaying">
     🎵 {{ audioService.getCurrentTrackName() }}
   </span>

@@ -16,6 +16,7 @@ export class AudioService {
     { src: 'assets/audio/song8.mp3', name: 'Man City Chant' },
     { src: 'assets/audio/song9.mp3', name: 'Dynamo Dresden Ultras' },
     { src: 'assets/audio/song10.mp3', name: 'Napoli Ultras' },
+    { src: 'assets/audio/song11.mp3', name: 'Oh when the Spurs go marching in' },
 
   ];
   private currentTrackIndex = 0;

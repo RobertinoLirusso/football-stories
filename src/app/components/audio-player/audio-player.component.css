@@ -4,36 +4,47 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  gap: 10px; /* Espacio entre los elementos */
 }
+
+.song-name {
+  max-width: 200px;
+  overflow-x: auto;
+  white-space: nowrap;
+  display: block;
+}
+
 
 @media (max-width: 576px) {
   .audio-player {
-    max-width: 95% !important;  /* Ajuste del ancho para móviles */
+    max-width: 95% !important; 
     margin: 10px;
   }
 
+  .song-name {
+    max-width: 180px;
+  }
+
   .audio-player .d-flex {
-    flex-direction: column; /* Los botones y texto se apilan verticalmente */
-    align-items: center;    /* Centrar los botones */
+    flex-direction: column; 
+    align-items: center;    
   }
 
   .audio-player .btn {
-    font-size: 0.8rem; /* Reducir el tamaño de los botones */
-    padding: 5px;      /* Reducir el padding de los botones */
+    font-size: 0.8rem; 
+    padding: 5px;    
   }
 
   .audio-player .small {
-    font-size: 0.75rem; /* Reducir el tamaño del texto */
+    font-size: 0.75rem; 
   }
 
   .audio-player span {
-    white-space: nowrap; /* Evitar que el texto se rompa */
-    text-overflow: ellipsis; /* Mostrar "..." si el texto es demasiado largo */
+    white-space: nowrap; 
+    text-overflow: ellipsis; 
   }
 
   .audio-player .flex-grow-1 {
-    overflow: hidden; /* Evitar que el nombre de la canción se desborde */
+    overflow: hidden; 
     text-overflow: ellipsis;
   }
 }
