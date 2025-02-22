@@ -327,7 +327,42 @@
         "article_photo_caption": "Barcelona’s players lifting Guardiola after winning FIFA Club World Cup 2011.",
         "date": "2008-2012",
         "category": "Teams"
+      },
+      {
+        "id": 34,
+        "title": "Kaká",
+        "description": "Ricardo Izecson dos Santos Leite, known simply as Kaká, was one of the most graceful and technically gifted footballers of his generation. Born in Brasília, Brazil, in 1982, Kaká emerged as a prodigy with São Paulo before making his mark on the world stage. His combination of speed, vision, dribbling, and finishing made him a unique player—a midfielder with the elegance of a playmaker and the explosiveness of a striker. In 2003, he joined AC Milan, where he reached his peak. Under Carlo Ancelotti, Kaká became the heartbeat of Milan’s attack, guiding them to Champions League glory in 2007 with a dazzling campaign. That season, he was unstoppable, scoring crucial goals, including a legendary solo effort against Manchester United in the semifinals. His performances earned him the Ballon d’Or, making him the last player to win the award before the Messi-Ronaldo era began. In 2009, Real Madrid signed him in a then-world record transfer, but injuries hampered his impact at the club. Despite flashes of brilliance, he never fully replicated his Milan form in Spain. However, his legacy remained intact—his humility, professionalism, and breathtaking skill made him a beloved figure worldwide. At the international level, Kaká played a crucial role in Brazil’s 2002 World Cup-winning squad and later became a leader for the Seleção in the following tournaments. His graceful playing style and sportsmanship earned him admiration beyond the pitch. Though injuries limited his longevity at the top, Kaká’s prime remains unforgettable. A true gentleman of the game, he left a lasting mark as one of football’s greatest playmakers, an icon of beauty and intelligence on the field.",
+        "cover_photo": "https://assets.goal.com/images/v3/blt3ac4fd3241c7a7dc/4587caf178e1f9ceaa38acf1e64176098543a49c.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+        "article_photo": "https://tmssl.akamaized.net/images/foto/galerie/kaka-mit-dem-champions-league-pokal-1589192946-38227.jpg",
+        "article_photo_caption": "Kaká celebrating after leading AC Milan to Champions League glory.",
+        "date": "April 22, 1982",
+        "category": "Players"
+      },
+      {
+        "id": 35,
+        "title": "Dnipro: The Rise and Fall of a Ukrainian Giant",
+        "description": "FC Dnipro was once a powerhouse of Ukrainian football, a club rich in history, passion, and resilience. Founded in 1918, Dnipro enjoyed decades of domestic and European success, becoming a symbol of footballing excellence in Ukraine. The club's golden era came during the Soviet era, winning two USSR league titles (1983, 1988) and consistently competing with giants like Dynamo Kyiv and Spartak Moscow. After Ukraine’s independence, Dnipro remained a formidable force, frequently challenging for top positions in the Ukrainian Premier League. However, their greatest moment arrived in the 2014-15 season when they shocked Europe by reaching the UEFA Europa League final. Under the guidance of Myron Markevych, Dnipro defeated teams like Napoli and Club Brugge on their way to the final, where they put up a brave fight against Sevilla but ultimately fell 3-2 in a thrilling contest. The likes of Yevhen Konoplyanka, Ruslan Rotan, and Nikola Kalinić led a team that embodied heart and determination. Unfortunately, financial struggles and political turmoil in Ukraine took their toll on the club. By 2018, Dnipro was declared bankrupt due to mounting debts and was expelled from professional football, marking a tragic end for one of Ukraine’s most historic teams. Though a phoenix club, SC Dnipro-1, has since emerged to carry on the legacy, the original Dnipro’s fall serves as a stark reminder of how financial instability can dismantle even the proudest football institutions. Despite their disappearance from the professional stage, the memories of Dnipro’s glorious past, especially their heroic Europa League run, will never be forgotten by football fans.",
+        "cover_photo": "https://thesefootballtimes.co/wp-content/uploads/2019/03/dmipro.jpg",
+        "article_photo": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/05/14/1525747-32512149-2560-1440.jpg",
+        "article_photo_caption": "Dnipro’s players celebrating their incredible Europa League run in 2015, the club’s finest hour.",
+        "date": "1918-2018",
+        "category": "Teams"
+      },
+      {
+        "id": 36,
+        "title": "Olympiastadion (Berlin)",
+        "description": "The Olympiastadion Berlin is one of the most iconic stadiums in world football, a venue steeped in history, grandeur, and unforgettable moments. Built for the 1936 Summer Olympics, the stadium was originally designed as a symbol of Nazi Germany’s power, but over the decades, it transformed into a global sporting landmark. With a capacity of over 74,000, it has hosted legendary football matches, concerts, and cultural events. The Olympiastadion’s most famous football moment came in 2006 when it hosted the FIFA World Cup Final. On that historic night, Italy and France battled for the ultimate prize, with Fabio Grosso scoring the winning penalty after Zinedine Zidane’s infamous headbutt on Marco Materazzi. Italy’s victory cemented the stadium’s place in football history. The Olympiastadion is also the home of Hertha BSC, one of Germany’s traditional clubs, and regularly hosts the DFB-Pokal final, making it a sacred ground for German football. Beyond the sport, its striking architecture and historical significance make it one of Berlin’s must-visit landmarks. Despite its controversial origins, the stadium has become a place of unity, passion, and unforgettable sporting memories. From Jesse Owens’ legendary Olympic triumphs to the roar of the 2006 World Cup final, the Olympiastadion remains a monument to the past and a beacon for the future of football.",
+        "cover_photo": "https://www.iskydance.com/uploads/kindeditor417/image/20200518/20200518062421_53709.jpg",
+        "article_photo": "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/image/C4_160903ISTAFbln_242_DL_PPT_0.jpg.webp?itok=Gzj9L48J",
+        "article_photo_caption": "The Olympiastadion during the 2006 FIFA World Cup Final, where Italy triumphed over France in a dramatic penalty shootout.",
+        "date": "Built in 1936",
+        "category": "Stadiums"
       }
+      
+
+      
+
+      
       
       
 
