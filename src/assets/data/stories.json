@@ -357,7 +357,51 @@
         "article_photo_caption": "The Olympiastadion during the 2006 FIFA World Cup Final, where Italy triumphed over France in a dramatic penalty shootout.",
         "date": "Built in 1936",
         "category": "Stadiums"
+      },
+      {
+        "id": 37,
+        "title": "Anzhi Makhachkala: The Rise and Fall of Football’s Wildest Project",
+        "description": "Few clubs in football history have experienced a rise and fall as dramatic as Anzhi Makhachkala. Based in the Russian republic of Dagestan, Anzhi was an unremarkable club until 2011, when billionaire Suleyman Kerimov took over and injected a fortune into the team. What followed was one of the most extravagant spending sprees in football history, as Anzhi aimed to become a global powerhouse overnight. The club made headlines by signing legendary players such as Samuel Eto’o who became the highest-paid footballer in the world at the time with a reported salary of €20 million per year. Soon after, stars like Roberto Carlos, Willian, and Lassana Diarra followed, while Dutch coach Guus Hiddink was appointed to lead the ambitious project. Despite its financial might, the team never reached the heights it aimed for. Anzhi managed a third-place finish in the Russian Premier League and reached the **Europa League knockout stages**, but internal instability and Kerimov’s growing disinterest led to a financial collapse in 2013. In an instant, the dream crumbled—players were sold, salaries were slashed, and Anzhi fell into obscurity. By 2022, the club ceased to exist, marking the end of one of football’s most bizarre and short-lived experiments. The Anzhi story serves as both a cautionary tale and a reminder of football’s unpredictable nature, where money alone cannot guarantee lasting success.",
+        "cover_photo": "https://cdn.images.express.co.uk/img/dynamic/67/1200x712/4556445.jpg",
+        "article_photo": "https://dus09vr7ngt46.cloudfront.net/uploads/2022/06/04112711/GettyImages-154750151.jpg",
+        "article_photo_caption": "Anzhi Makhachkala playing against Liverpool in UEFA Europa League.",
+        "date": "2011-2013",
+        "category": "Teams"
+      },
+      {
+        "id": 38,
+        "title": "José Mourinho’s Porto: The Birth of The Special One",
+        "description": "Before José Mourinho became one of the most successful managers in football history, he made his name with FC Porto. Taking over in 2002, Mourinho transformed Porto into a dominant force, winning the Primeira Liga in his first full season. However, it was in European competitions that his team made history. In 2003, Porto won the UEFA Cup (now Europa League) after defeating Celtic in a thrilling final. But the real shock came in the 2003-04 season, when Porto, against all odds, conquered the UEFA Champions League. With a squad featuring Deco, Ricardo Carvalho, Maniche, and Vítor Baía, Porto eliminated Manchester United, Lyon, and Deportivo La Coruña before dismantling AS Monaco 3-0 in the final. Mourinho’s tactical brilliance and his famous ‘park the bus’ mentality against stronger opponents were key to Porto’s success. That triumph propelled Mourinho to international fame, earning him the Chelsea job. His Porto side remains one of the greatest underdog stories in modern football, proving that tactical genius and team spirit can overcome financial giants.",
+        "cover_photo": "https://img2.thejournal.ie/article/2059121/river/?height=400&version=2059144",
+        "article_photo": "https://editorial.uefa.com/resources/0250-0c5103dcff42-92e0f7beb46a-1000/1585151_w1.jpeg",
+        "article_photo_caption": "José Mourinho celebrating Porto’s incredible 2004 Champions League triumph, a moment that defined his legacy.",
+        "date": "2002-2004",
+        "category": "Teams"
+      },
+      {
+        "id": 39,
+        "title": "Nottingham Forest: The Miracle of Brian Clough",
+        "description": "In the late 1970s, Nottingham Forest achieved the unthinkable. Under the leadership of the charismatic Brian Clough, Forest went from being a Second Division club to back-to-back European champions Clough took over in 1975 and immediately instilled discipline, confidence, and a winning mentality. In 1978, Nottingham Forest stunned English football by winning the First Division (now Premier League) in their first season after promotion. But their greatest achievement came in Europe. In 1979, they defeated Malmö to win the European Cup (now the Champions League), and incredibly, they defended their title in 1980 by beating Hamburg. Players like John Robertson, Peter Shilton, and Trevor Francis became legends. Clough’s tactical intelligence and ability to motivate his players turned a small club into the best team in Europe for two consecutive years. Nottingham Forest remains the only club to have **more European Cups than domestic league titles, a record unlikely to be broken. Clough’s miracle remains one of football’s greatest fairytales.",
+        "cover_photo": "https://e6.365dm.de/24/10/1600x900/skysport_de-nottingham-pl_6713485.jpg?20241011150205",
+        "article_photo": "https://cdn.resfu.com/media/img_news/brian-clough--posando-con-una-de-las-copas-de-europa-que-gano-en-el-nottingham--knows.jpg?size=1200x&lossy=1",
+        "article_photo_caption": "Brian Clough leading Nottingham Forest to their first European Cup in 1979, an achievement that shocked the world.",
+        "date": "1975-1980",
+        "category": "Teams"
+      },
+      {
+        "id": 40,
+        "title": "Emiliano Sala: A Dream Cut Short",
+        "description": "Emiliano Sala’s story is one of talent, perseverance, and tragedy. Born in Argentina, Sala worked tirelessly to make a name for himself in European football. After years of playing in France, he became a star at FC Nantes, where his goalscoring ability caught the attention of Premier League clubs. In January 2019, Cardiff City signed him for a club-record fee of £15 million, fulfilling his dream of playing in England’s top division. However, tragedy struck on January 21, 2019. While traveling from Nantes to Cardiff in a private plane, the aircraft disappeared over the English Channel. After days of search efforts, the wreckage was found on February 3, and his body was recovered shortly after. Investigations revealed the flight had multiple safety issues, and the pilot was unqualified for the journey. The football world mourned the loss of a humble and hardworking player whose career was just taking off. Emiliano Sala’s tragic fate serves as a painful reminder of the unpredictability of life, and he is forever remembered by Nantes, Cardiff, and football fans worldwide.",
+        "cover_photo": "https://c.files.bbci.co.uk/12303/production/_105299447_gettyimages-855968734.jpg",
+        "article_photo": "https://www.clarin.com/img/2019/02/08/bZX2wnFEx_720x0__1.jpg",
+        "article_photo_caption": "Fans paying tribute to Emiliano Sala at Nantes Stadium after his tragic passing in 2019.",
+        "date": "October 31, 1990 - January 21, 2019",
+        "category": "Players"
       }
+      
+      
+      
+      
       
 
       
