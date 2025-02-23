@@ -353,7 +353,7 @@
         "title": "Olympiastadion (Berlin)",
         "description": "The Olympiastadion Berlin is one of the most iconic stadiums in world football, a venue steeped in history, grandeur, and unforgettable moments. Built for the 1936 Summer Olympics, the stadium was originally designed as a symbol of Nazi Germany’s power, but over the decades, it transformed into a global sporting landmark. With a capacity of over 74,000, it has hosted legendary football matches, concerts, and cultural events. The Olympiastadion’s most famous football moment came in 2006 when it hosted the FIFA World Cup Final. On that historic night, Italy and France battled for the ultimate prize, with Fabio Grosso scoring the winning penalty after Zinedine Zidane’s infamous headbutt on Marco Materazzi. Italy’s victory cemented the stadium’s place in football history. The Olympiastadion is also the home of Hertha BSC, one of Germany’s traditional clubs, and regularly hosts the DFB-Pokal final, making it a sacred ground for German football. Beyond the sport, its striking architecture and historical significance make it one of Berlin’s must-visit landmarks. Despite its controversial origins, the stadium has become a place of unity, passion, and unforgettable sporting memories. From Jesse Owens’ legendary Olympic triumphs to the roar of the 2006 World Cup final, the Olympiastadion remains a monument to the past and a beacon for the future of football.",
         "cover_photo": "https://www.iskydance.com/uploads/kindeditor417/image/20200518/20200518062421_53709.jpg",
-        "article_photo": "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/image/C4_160903ISTAFbln_242_DL_PPT_0.jpg.webp?itok=Gzj9L48J",
+        "article_photo": "https://a.storyblok.com/f/180301/2880x1620/8cd4afa913/wmc_event_design_closing_ceremony_2006_fifa_world_cup_berlin_scenography_costume_sound_olympic_stadium_abstract_form_monolithic_architecture_dynamic_shape_winner_podium_4.jpg/m/1920x0/filters:format(webp)",
         "article_photo_caption": "The Olympiastadion during the 2006 FIFA World Cup Final, where Italy triumphed over France in a dramatic penalty shootout.",
         "date": "Built in 1936",
         "category": "Stadiums"
@@ -397,7 +397,43 @@
         "article_photo_caption": "Fans paying tribute to Emiliano Sala at Nantes Stadium after his tragic passing in 2019.",
         "date": "October 31, 1990 - January 21, 2019",
         "category": "Players"
+      },
+      {
+        "id": 41,
+        "title": "The Night Sheriff Tiraspol Shocked the Bernabéu",
+        "description": "On September 28, 2021, football witnessed one of the biggest upsets in Champions League history. Moldovan champions Sheriff Tiraspol, playing in their debut Champions League season, traveled to the Santiago Bernabéu to face the mighty Real Madrid, a 13-time European champion. What seemed like a routine victory for Madrid turned into a night of disbelief. Despite Madrid dominating possession and launching multiple attacks, Sheriff took the lead in the first half with a goal from Jasurbek Yakhshiboev. Karim Benzema equalized from the penalty spot, and Madrid looked set to complete the comeback. But in the 89th minute, Sébastien Thill unleashed a stunning long-range strike, sending the ball past Courtois and securing an unimaginable 2-1 victory. The final whistle echoed through the Bernabéu, and Sheriff’s players celebrated what was arguably the greatest moment in their club’s history. Their triumph over the Spanish giants was a reminder that in football, nothing is impossible.",
+        "cover_photo": "https://media.tycsports.com/files/2021/09/28/337941/rm_1440x810_wmk.jpg?v=1",
+        "article_photo": "https://i2-prod.mirror.co.uk/incoming/article25094676.ece/ALTERNATES/s615/4_Champions-League-Group-D-Real-Madrid-v-Sheriff-Tiraspol.jpg",
+        "article_photo_caption": "Sébastien Thill celebrating his stunning winner against Real Madrid, completing Sheriff Tiraspol’s fairytale victory.",
+        "date": "September 28, 2021",
+        "category": "Matches"
+      },
+      {
+        "id": 42,
+        "title": "Hazza Bin Zayed Stadium",
+        "description": "Located in Al Ain, United Arab Emirates, the Hazza Bin Zayed Stadium is one of the most modern and impressive football venues in the Middle East. Officially opened in 2014, the stadium serves as the home of Al Ain FC, one of the most successful clubs in Asian football. With a seating capacity of 25,000, its unique architectural design and advanced cooling system make it a landmark in sports infrastructure. The stadium has hosted major international events, including the 2019 AFC Asian Cup and the FIFA Club World Cup. The venue gained global recognition when Al Ain FC defeated River Plate in the 2018 Club World Cup semi-final, before facing Real Madrid in the final. With its world-class facilities and electric atmosphere, Hazza Bin Zayed Stadium is a symbol of football’s growing influence in the UAE and the wider region.",
+        "cover_photo": "https://venuewise.com/upload/venue/gallery/2025/01/09/97377512_10157379344537333_343174071703306240_n_1_677f766941f5a.jpg",
+        "article_photo": "https://mediacdn.mancity.com/-/media/images/home/news/club-news/2014/april/al-ain-stadium.ashx?width=1620",
+        "article_photo_caption": "A stunning night view of the Hazza Bin Zayed Stadium, one of the most advanced football venues in the Middle East.",
+        "date": "Opened in 2014",
+        "category": "Stadiums"
+      },
+
+      {
+        "id": 43,
+        "title": "Mbappé’s Arrival on the World Stage",
+        "description": "On June 30, 2018, the football world witnessed an unforgettable clash in the Round of 16 of the FIFA World Cup. France and Argentina faced off in a thrilling encounter that showcased the brilliance of Kylian Mbappé. The match began with an early penalty won by Mbappé and converted by Antoine Griezmann, giving France a 1-0 lead. Argentina responded before halftime with a stunning long-range strike from Ángel Di María to equalize. Early in the second half, Gabriel Mercado deflected a Messi shot to put Argentina ahead 2-1. However, France responded in spectacular fashion. Benjamin Pavard scored a breathtaking outside-foot volley to level the match at 2-2, a goal later named Goal of the Tournament. Then, Mbappé took over, scoring twice in quick succession to give France a commanding 4-2 lead. Sergio Agüero pulled one back for Argentina in stoppage time, but it was too late. France’s 4-3 victory sent them into the quarterfinals and announced Mbappé as the next global superstar. This match is remembered as one of the most exciting games of the tournament and a symbolic changing of the guard in world football.",
+        "cover_photo": "https://depor.com/resizer/XYxWewap7IWiMmBsp11ZHWsq0Vo=/980x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/RVY2D6UT6JGPRO2D2L34XTNLLE.jpg",
+        "article_photo": "https://ak.uecdn.es/p/110/thumbnail/entry_id/0_bshg8z9g/width/990/cache_st/20180630195916/type/2/bgcolor/000000/0_bshg8z9g.jpg",
+        "article_photo_caption": "Kylian Mbappé’s blistering performance against Argentina announced him as a future football icon.",
+        "date": "June 30, 2018",
+        "category": "Matches"
       }
+      
+      
+
+      
+
       
       
       

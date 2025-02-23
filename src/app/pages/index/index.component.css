@@ -15,7 +15,11 @@
     pointer-events: none;
     transition: height 0.3s ease-in-out;
   }
-  
+
+
+ .index {
+  padding-top: 56px;
+ } 
 
   /* Ajustes para dispositivos móviles */
   @media (max-width: 768px) {
