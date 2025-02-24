@@ -428,40 +428,41 @@
         "article_photo_caption": "Kylian Mbappé’s blistering performance against Argentina announced him as a future football icon.",
         "date": "June 30, 2018",
         "category": "Matches"
-      }
+      },
+      {
+        "id": 44,
+        "title": "Juninho Pernambucano: The Free-Kick Maestro",
+        "description": "Juninho Pernambucano is widely regarded as one of the greatest free-kick takers in football history. Born in Recife, Brazil, he made his name at Vasco da Gama before moving to Olympique Lyonnais in 2001. It was in France where Juninho became a legend, leading Lyon to seven consecutive Ligue 1 titles and terrorizing goalkeepers with his unique knuckleball free-kick technique. His ability to strike the ball with unpredictable movement made him nearly unstoppable from set-pieces, scoring over 75 free-kick goals in his career. Even at long distances, Juninho’s precision and power defied logic. His influence extended beyond club football, representing Brazil at the 2006 World Cup. After leaving Lyon, he returned to Vasco and later played in Qatar and the MLS before retiring. Juninho’s legacy lives on as future generations study his technique, trying to replicate the magic he created every time he stood over a dead ball.",
+        "cover_photo": "https://e0.365dm.com/08/09/1600x900/Juninho_1251891.jpg?20080930202353",
+        "article_photo": "https://cdn.conmebol.com/wp-content/uploads/2017/08/juninho_1.jpg",
+        "article_photo_caption": "Juninho Pernambucano, the master of free-kicks, during his legendary time at Olympique Lyonnais.",
+        "date": "January 30, 1975",
+        "category": "Players"
+      },
+      {
+        "id": 45,
+        "title": "Liverpool vs Alavés 2001: The Golden Goal Thriller",
+        "description": "The 2001 UEFA Cup Final between Liverpool and Deportivo Alavés is widely regarded as one of the most dramatic and thrilling matches in European football history. Played on May 16, 2001, at the Westfalenstadion in Dortmund, this game was a rollercoaster of emotions, featuring a stunning nine goals. Liverpool took an early 2-0 lead with goals from Markus Babbel and Steven Gerrard, but Alavés fought back in a never-say-die display. The match saw multiple lead changes, with Javi Moreno scoring twice for Alavés to bring them level at 3-3. Robbie Fowler put Liverpool ahead again, only for Alavés to equalize once more in the dying minutes, making it 4-4. The match was finally decided in extra time when Delfí Geli inadvertently headed the ball into his own net, handing Liverpool a 5-4 victory via the 'Golden Goal' rule. This unforgettable final secured Liverpool’s third UEFA Cup title and remains one of the most entertaining finals in football history.",
+        "cover_photo": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2017/05/19/2086116-43717530-2560-1440.jpg",
+        "article_photo": "https://i1.wp.com/www.culturaredonda.com.ar/wp-content/uploads/2017/07/Alaves-4-Liverpool-5-2.jpg?resize=700%2C476",
+        "article_photo_caption": "Liverpool players celebrating their dramatic UEFA Cup victory over Alavés in 2001.",
+        "date": "May 16, 2001",
+        "category": "Matches"
+      },
+      {
+        "id": 46,
+        "title": "Corinthians vs Chelsea 2012: The Last South American Triumph",
+        "description": "On December 16, 2012, Corinthians etched their name in football history by defeating Chelsea 1-0 in the FIFA Club World Cup final in Yokohama, Japan. The match was a battle between the Copa Libertadores champions and the UEFA Champions League winners, with Chelsea entering as favorites. However, Corinthians, backed by a passionate fanbase that traveled in thousands to Japan, displayed resilience and tactical discipline. The decisive moment came in the 69th minute when Paolo Guerrero capitalized on a rebound inside the box, heading the ball past Petr Čech to give Corinthians the lead. Chelsea pushed for an equalizer, but the Brazilian side held firm, with goalkeeper Cássio making crucial saves, earning him the Man of the Match award. At the final whistle, Corinthians celebrated their second world title, becoming the last South American team to win the tournament against a European opponent. The victory reinforced the club’s legacy and remains one of the most cherished moments in Brazilian football history.",
+        "cover_photo": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2012/12/16/925547-19797453-2560-1440.jpg",
+        "article_photo": "https://e0.365dm.com/12/12/2048x1152/PaoloGuerrero_2874961.jpg?20121216121752",
+        "article_photo_caption": "Paolo Guerrero’s goal secured Corinthians’ historic victory over Chelsea in the 2012 FIFA Club World Cup final.",
+        "date": "December 16, 2012",
+        "category": "Matches"
+      }          
+
       
       
 
       
-
-      
-      
-      
-      
-      
-
-      
-
-      
-      
-      
-
-      
-      
-      
-      
-      
-      
-      
-
-           
-      
-      
-       
-      
-      
-      
-      
-      
-    
+   
 ]

@@ -9,7 +9,7 @@ const routes: Routes = [
   {path: '', component: IndexComponent, title: 'Football Stories'},
   {path: 'story/:id', component: StoryDetailComponent},
   {path: 'categories/:category', component: StoriesComponent},
-  {path: '**', pathMatch: 'full', component: NotfoundComponent}
+  {path: '**', pathMatch: 'full', component: NotfoundComponent},
 ];
 
 @NgModule({

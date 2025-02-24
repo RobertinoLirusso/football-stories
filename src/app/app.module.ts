@@ -21,7 +21,7 @@ import { AudioPlayerComponent } from './components/audio-player/audio-player.com
     FooterComponent,
     StoryDetailComponent,
     StoriesComponent,
-    AudioPlayerComponent
+    AudioPlayerComponent,
   ],
   imports: [
     BrowserModule,
