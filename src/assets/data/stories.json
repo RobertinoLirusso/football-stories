@@ -458,7 +458,52 @@
         "article_photo_caption": "Paolo Guerrero’s goal secured Corinthians’ historic victory over Chelsea in the 2012 FIFA Club World Cup final.",
         "date": "December 16, 2012",
         "category": "Matches"
-      }          
+      },
+      {
+        "id": 47,
+        "title": "Krestovsky Stadium",
+        "description": "The Krestovsky Stadium, also known as Gazprom Arena, is one of the most modern and impressive football stadiums in the world. Located in Saint Petersburg, Russia, the stadium was built on Krestovsky Island and officially opened in 2017. Designed by renowned architect Kisho Kurokawa, its futuristic retractable roof and sliding pitch make it one of the most technologically advanced stadiums globally. Originally constructed for the 2018 FIFA World Cup, the venue hosted several key matches, including a semi-final between France and Belgium. With a seating capacity of around 68,000, the stadium serves as the home of Zenit Saint Petersburg and has also hosted UEFA Champions League and European Championship matches. Beyond football, it has been a venue for major concerts and international events. The Krestovsky Stadium stands as a symbol of Russia’s ambition to modernize its sports infrastructure and remains a landmark in European football.",
+        "cover_photo": "https://canalshowsport.com.ar/wp-content/uploads/2024/07/E-6jfxqXsCgHVpR.jpg",
+        "article_photo": "https://pbs.twimg.com/media/Gel5zmWWoAAQWpg.jpg",
+        "article_photo_caption": "A night view of the Krestovsky Stadium, one of the most advanced football arenas in the world.",
+        "date": "Opened in 2017",
+        "category": "Stadiums"
+      },
+      {
+        "id": 48,
+        "title": "Wigan’s FA Cup Miracle: The Ultimate Underdog Story",
+        "description": "On May 11, 2013, one of the greatest upsets in English football history took place at Wembley Stadium as Wigan Athletic defeated Manchester City 1-0 to win their first-ever FA Cup. City, led by Roberto Mancini, were overwhelming favorites, boasting a squad full of international stars, while Wigan, managed by Roberto Martínez, were fighting relegation in the Premier League. Despite the odds, Wigan played with courage and discipline, frustrating City throughout the match. The decisive moment came in the 91st minute when Ben Watson, rising above the defense, powered a header past Joe Hart from a Shaun Maloney corner. The last-minute goal sent the Wigan fans into a frenzy, sealing an unforgettable victory. Just days later, Wigan’s joy turned bittersweet as they were relegated from the Premier League. However, their triumph remains one of the greatest fairy tales in FA Cup history, proving that in football, anything is possible.",
+        "cover_photo": "https://i.eurosport.com/2013/05/11/1007276-19198785-2560-1440.jpg",
+        "article_photo": "https://m.media-amazon.com/images/M/MV5BNzUxZGI0ZWItY2NiNi00ZGI5LWJlOTktZmYwMmQyM2Y4YjAxXkEyXkFqcGc@._V1_.jpg",
+        "article_photo_caption": "Ben Watson’s stoppage-time header secured Wigan’s historic FA Cup victory over Manchester City.",
+        "date": "May 11, 2013",
+        "category": "Matches"
+      },
+      {
+        "id": 49,
+        "title": "Bradford vs Swansea 2013: The Unexpected Final",
+        "description": "The 2013 League Cup final was one of the most unexpected matchups in English football history, as fourth-tier Bradford City faced Premier League side Swansea City at Wembley Stadium on February 24, 2013. Bradford, a League Two club, had defied all odds by defeating Arsenal, Aston Villa, and Wigan Athletic on their way to the final, becoming the first fourth-division team to reach a major English cup final since 1962. However, their magical run met an abrupt end against Swansea. The Welsh side, managed by Michael Laudrup, dominated the match, securing a 5-0 victory—the biggest winning margin in League Cup final history. Nathan Dyer and Jonathan de Guzmán each scored twice, while Michu added another to seal Swansea’s first-ever major trophy. Despite the heavy defeat, Bradford’s incredible journey remains one of the greatest underdog stories in modern football, proving that dreams can still come true in the sport’s biggest stages.",
+        "cover_photo": "https://media.squawka.com/images/en/2020/02/24132902/michu-swansea-bradford-2013.jpg",
+        "article_photo": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2013/02/24/960382-19540343-2560-1440.jpg",
+        "article_photo_caption": "Swansea City players celebrate their historic League Cup victory at Wembley in 2013.",
+        "date": "February 24, 2013",
+        "category": "Matches"
+      },
+      {
+        "id": 50,
+        "title": "Mourinho’s First Chelsea Era: The Birth of a Giant",
+        "description": "In 2004, José Mourinho arrived at Chelsea with supreme confidence, calling himself 'The Special One.' Backed by Roman Abramovich’s financial power, Mourinho built a team that dominated English football with defensive solidity, tactical intelligence, and an unbreakable winning mentality. In his first season, Chelsea won the 2004-05 Premier League with a record-breaking 95 points, conceding only 15 goals—the best defensive record in league history. Led by John Terry, Frank Lampard, and Didier Drogba, Chelsea retained their title in 2005-06, proving their dominance. Under Mourinho, Chelsea also won two League Cups and an FA Cup, cementing themselves as England’s top team. However, tensions with Abramovich grew, and in September 2007, Mourinho left the club by mutual consent. Despite his departure, his impact was undeniable—he had turned Chelsea into a powerhouse, setting the foundation for future success and leaving a legacy that fans still revere.",
+        "cover_photo": "https://cdn.mos.cms.futurecdn.net/t546VS2Yh5wcBa785tWdnQ.jpg",
+        "article_photo": "https://cdn2.mediotiempo.com/uploads/media/2020/04/30/mourinho-festejando-ese-primer-titulo.jpg",
+        "article_photo_caption": "Chelsea players celebrating their historic 2004-05 Premier League title under José Mourinho.",
+        "date": "2004-2007",
+        "category": "Teams"
+}
+      
+      
+      
+      
+                
 
       
       
