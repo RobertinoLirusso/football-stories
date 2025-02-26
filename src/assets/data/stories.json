@@ -352,7 +352,7 @@
         "id": 36,
         "title": "Olympiastadion (Berlin)",
         "description": "The Olympiastadion Berlin is one of the most iconic stadiums in world football, a venue steeped in history, grandeur, and unforgettable moments. Built for the 1936 Summer Olympics, the stadium was originally designed as a symbol of Nazi Germany’s power, but over the decades, it transformed into a global sporting landmark. With a capacity of over 74,000, it has hosted legendary football matches, concerts, and cultural events. The Olympiastadion’s most famous football moment came in 2006 when it hosted the FIFA World Cup Final. On that historic night, Italy and France battled for the ultimate prize, with Fabio Grosso scoring the winning penalty after Zinedine Zidane’s infamous headbutt on Marco Materazzi. Italy’s victory cemented the stadium’s place in football history. The Olympiastadion is also the home of Hertha BSC, one of Germany’s traditional clubs, and regularly hosts the DFB-Pokal final, making it a sacred ground for German football. Beyond the sport, its striking architecture and historical significance make it one of Berlin’s must-visit landmarks. Despite its controversial origins, the stadium has become a place of unity, passion, and unforgettable sporting memories. From Jesse Owens’ legendary Olympic triumphs to the roar of the 2006 World Cup final, the Olympiastadion remains a monument to the past and a beacon for the future of football.",
-        "cover_photo": "https://www.iskydance.com/uploads/kindeditor417/image/20200518/20200518062421_53709.jpg",
+        "cover_photo": "https://znaki.fm/static/content/thumbs/1600x900/d/9f/qoaoes---c16x9x50px50p--c87d96b945d4ac795306755c9cb7d9fd.jpg",
         "article_photo": "https://a.storyblok.com/f/180301/2880x1620/8cd4afa913/wmc_event_design_closing_ceremony_2006_fifa_world_cup_berlin_scenography_costume_sound_olympic_stadium_abstract_form_monolithic_architecture_dynamic_shape_winner_podium_4.jpg/m/1920x0/filters:format(webp)",
         "article_photo_caption": "The Olympiastadion during the 2006 FIFA World Cup Final, where Italy triumphed over France in a dramatic penalty shootout.",
         "date": "Built in 1936",
@@ -498,7 +498,41 @@
         "article_photo_caption": "Chelsea players celebrating their historic 2004-05 Premier League title under José Mourinho.",
         "date": "2004-2007",
         "category": "Teams"
-}
+      },
+      {
+        "id": 51,
+        "title": "The Invincibles",
+        "description": "The 2003-04 Arsenal team, known as 'The Invincibles,' achieved one of the greatest feats in football history by going an entire Premier League season unbeaten. Under the guidance of Arsène Wenger, Arsenal played breathtaking attacking football, blending skill, speed, and tactical intelligence. Led by captain Patrick Vieira, the Gunners boasted a squad featuring the brilliance of Thierry Henry, the creativity of Dennis Bergkamp, and the defensive strength of Sol Campbell. Arsenal secured the title with four games to spare and ended the season with 26 wins, 12 draws, and 0 defeats—becoming the first team since Preston North End in 1889 to finish an English top-flight season undefeated. Their 49-game unbeaten streak extended into the following season, setting a record unlikely to be broken. The Invincibles remain a benchmark of excellence, proving that footballing artistry and resilience can coexist at the highest level.",
+        "cover_photo": "https://assets.goal.com/images/v3/blt53bb9b7c4ad96739/ee6a86f5803de43951b49b99d6076c6e2aa801d1.jpg",
+        "article_photo": "https://cdn.vox-cdn.com/thumbor/q9aDLrMPbi74A3Sgqk80H1hM2Dk=/0x0:2000x3000/1200x800/filters:focal(887x328:1207x648)/cdn.vox-cdn.com/uploads/chorus_image/image/66412872/955386440.jpg.0.jpg",
+        "article_photo_caption": "Arsenal's 'Golden Premier League Trophy,' awarded for their unbeaten 2003-04 season.",
+        "date": "2003-2004",
+        "category": "Teams"
+      },
+      {
+        "id": 52,
+        "title": "Estadio Azteca",
+        "description": "The Estadio Azteca is one of the most iconic football stadiums in the world. Located in Mexico City, it was inaugurated in 1966 and has since become a symbol of football history. With a capacity of over 87,000 spectators, it has hosted some of the most legendary matches, including the finals of the 1970 and 1986 FIFA World Cups. It was on this pitch that Pelé lifted his third World Cup trophy in 1970 and where Diego Maradona stunned the world with the 'Hand of God' and the 'Goal of the Century' in 1986. The stadium is also home to Club América and the Mexican national team, serving as a fortress for 'El Tri.' Throughout the years, the Estadio Azteca has witnessed unforgettable moments, solidifying its place as one of football’s greatest theaters. In 2026, it is set to become the first stadium in history to host matches in three different World Cups, further cementing its legendary status.",
+        "cover_photo": "https://www.dallasnews.com/resizer/FJnHa-g9CPBBboIv8UGWurig9MQ=/arc-anglerfish-arc2-prod-dmn/public/JFDOXH4PKRGR5MJFG4NKEQOCUU.JPG",
+        "article_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Maradona_cup_azteca.jpg/1024px-Maradona_cup_azteca.jpg",
+        "article_photo_caption": "The legendary Estadio Azteca, a venue of historic World Cup moments.",
+        "date": "Inaugurated in 1966",
+        "category": "Stadiums"
+      },
+      {
+        "id": 53,
+        "title": "APOEL Nicosia: The Cypriot Dream in the Champions League",
+        "description": "APOEL Nicosia wrote one of the most remarkable underdog stories in UEFA Champions League history during the 2011-12 season. As a club from Cyprus, APOEL was never expected to make a deep run in Europe’s elite competition. However, defying all odds, they topped a group featuring Porto, Shakhtar Donetsk, and Zenit Saint Petersburg, becoming the first Cypriot team to reach the knockout rounds. In the Round of 16, they faced Lyon, and after a dramatic penalty shootout victory, APOEL made history by advancing to the quarterfinals. Though their dream run ended against Real Madrid, APOEL’s incredible journey captivated football fans worldwide. Their resilience, tactical discipline, and passionate supporters turned them into an unforgettable Cinderella story. To this day, their 2011-12 campaign remains one of the greatest surprises in modern Champions League history, proving that football magic can come from anywhere.",
+        "cover_photo": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2012/03/08/817959-20591639-2560-1440.jpg",
+        "article_photo": "https://pm1.aminoapps.com/7587/8a3a38f861e49ef772898b5c5e36e2d8955909aer1-768-432v2_uhq.jpg",
+        "article_photo_caption": "APOEL Nicosia players celebrating their historic Champions League victory against Lyon in 2012.",
+        "date": "2011-2012",
+        "category": "Teams"
+      }
+      
+      
+      
+
       
       
       
