@@ -320,7 +320,7 @@
       },
       {
         "id": 33,
-        "title": "Guardiola’s Barcelona: The Golden Era (2008-2012)",
+        "title": "Guardiola’s Barcelona: The Golden Era",
         "description": "Few teams in football history have defined an era like Pep Guardiola’s FC Barcelona. From 2008 to 2012, the Catalan club reached unprecedented heights, blending artistry and dominance in a way never seen before. Built around the philosophy of ‘tiki-taka’—a mesmerizing style of short passing, movement, and pressing—Barcelona under Guardiola became the gold standard of football. With a squad featuring legends like Lionel Messi, Xavi Hernández, Andrés Iniesta, and Carles Puyol, the team revolutionized the game. In his first season (2008-09), Guardiola’s Barcelona stunned the world by winning the historic treble—LaLiga, Copa del Rey, and the UEFA Champions League—culminating in a 2-0 victory over Manchester United in the final. The following years cemented their legacy, with Guardiola leading Barça to 14 trophies in four seasons, including another Champions League title in 2011, where they dismantled Manchester United again in a masterclass performance at Wembley. That 2011 team is widely regarded as one of the greatest club sides of all time. Barcelona’s dominance wasn’t just about trophies—it was about redefining football. Their possession-based style forced opponents to chase shadows, while Messi, evolving into a false nine, became the world’s most devastating player. However, by 2012, exhaustion and the demands of perfection led Guardiola to step down, closing an extraordinary chapter in football history. The Guardiola era left an everlasting mark, influencing countless teams and coaches worldwide. More than just a successful team, they became a symbol of footballing beauty, forever remembered as one of the greatest sides ever to grace the game.",
         "cover_photo": "https://www.fcbarcelona.com/photo-resources/2022/12/14/624ecf9f-c254-40dd-96ce-83a39095c372/EQUIPO-COPA-02.jpg?width=1200&height=750",
         "article_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/In_the_air_Barcelona.jpg/1024px-In_the_air_Barcelona.jpg",
@@ -528,7 +528,51 @@
         "article_photo_caption": "APOEL Nicosia players celebrating their historic Champions League victory against Lyon in 2012.",
         "date": "2011-2012",
         "category": "Teams"
+      },
+      {
+        "id": 54,
+        "title": "Adrian Mutu",
+        "description": "Adrian Mutu was one of the most talented Romanian footballers of his generation, combining technical brilliance with an eye for goal. After impressing in Serie A with Parma, he earned a high-profile move to Chelsea in 2003. In his early days at Stamford Bridge, Mutu showcased his immense skill, quickly becoming a fan favorite. However, his career took a drastic turn when he tested positive for cocaine in 2004, leading to his contract termination and a lengthy ban. Despite the controversy, Mutu resurrected his career in Italy, shining for Fiorentina, where he became a key figure with his dribbling ability and clinical finishing. He also played a crucial role for Romania’s national team, finishing as their all-time joint top scorer. Though his career was marred by off-field struggles, Mutu’s undeniable talent and determination made him a memorable figure in European football.",
+        "cover_photo": "https://www.futbolsapiens.com/wp-content/uploads/2015/01/716078_w2.jpg",
+        "article_photo": "https://www.thenationalnews.com/resizer/rrW6zr_SXdkqukXLwRxvNrg70bM=/arc-photo-thenational/eu-central-1-prod/public/B5WKJQPLZSJYEPI6WLJFIK3GDI.jpg",
+        "article_photo_caption": "Adrian Mutu in action for Fiorentina, where he enjoyed a career revival after his Chelsea exit.",
+        "date": "January 8, 1979",
+        "category": "Players"
+      },
+      {
+        "id": 57,
+        "title": "Maracanã",
+        "description": "The Maracanã Stadium, located in Rio de Janeiro, Brazil, is one of the most legendary football venues in the world. Originally built for the 1950 FIFA World Cup, it was the largest stadium on the planet at the time, with a capacity exceeding 200,000 spectators. The stadium became famous for hosting the infamous 'Maracanazo,' where Uruguay stunned Brazil in the 1950 final, silencing an entire nation. Despite that heartbreak, Maracanã has also been the setting for some of football’s most glorious moments, including Brazil’s 2014 World Cup Final, Pelé’s 1,000th career goal, and numerous Copa Libertadores finals. After renovations, it remains an iconic venue, hosting Flamengo and Fluminense matches, as well as Brazil’s national team. With its rich history, passionate crowds, and unforgettable matches, Maracanã is more than just a stadium—it’s a sacred ground for football lovers worldwide.",
+        "cover_photo": "https://www.espn.com.ar/2003/photos2017/0126/AP_MaracanaVistaAerea_1296x729_0126.jpg",
+        "article_photo": "https://www.telegraph.co.uk/multimedia/archive/02973/wcup_f_cup_2973700k.jpg?imwidth=680",
+        "article_photo_caption": "The Maracanã, hosting the 2014 FIFA World Cup Final between Germany and Argentina.",
+        "date": "Inaugurated in 1950",
+        "category": "Stadiums"
+      },
+      {
+        "id": 58,
+        "title": "Santa Claus FC: The Most Festive Club in Football",
+        "description": "Santa Claus FC, based in Rovaniemi, Finland, is one of the most unique football clubs in the world. Founded in 1993, the club takes its name from the world-famous Santa Claus, as Rovaniemi is considered his official hometown. With a red and white kit resembling Santa’s outfit, the team has gained international attention for its festive identity and holiday-themed marketing. Although Santa Claus FC has never reached Finland’s top division, their story is more about spreading joy and promoting football in the Arctic region. Over the years, the club has played friendly matches against international teams and attracted football fans from all over the world. While their competitive success has been limited, Santa Claus FC remains a beloved team, proving that football can be about passion, culture, and a little bit of Christmas magic all year round.",
+        "cover_photo": "https://cdn.futbolperuano.com/sdi/2022/12/24/fc-santa-claus-el-equipo-mas-navideno-del-mundo-1101242.jpg",
+        "article_photo": "https://www.sopitas.com/wp-content/uploads/2023/12/santa-claus-fc-datos-historia.jpg",
+        "article_photo_caption": "Santa Claus FC, the most festive football club in the world, based in Rovaniemi, Finland.",
+        "date": "Founded in 1993",
+        "category": "Teams"
+      },
+      {
+        "id": 59,
+        "title": "Sheffield FC: The World's First Football Club",
+        "description": "Founded in 1857, Sheffield FC holds the prestigious title of being the oldest football club in the world. Established by Nathaniel Creswick and William Prest in Sheffield, England, the club played a pivotal role in shaping the early rules of football, influencing the modern game. Before the creation of the Football Association (FA) in 1863, Sheffield FC developed its own set of rules, known as the 'Sheffield Rules,' which introduced innovations such as free kicks and corners. Despite never reaching England’s top divisions, the club has been honored with the FIFA Order of Merit, recognizing its immense contribution to football history. Today, Sheffield FC continues to compete in the lower leagues, proudly preserving the sport’s heritage. More than just a football team, Sheffield FC is a living symbol of where the world’s most popular sport began.",
+        "cover_photo": "https://as01.epimg.net/ascolor/imagenes/2019/04/24/opinion/1556121334_648019_1556121421_noticia_normal.jpg",
+        "article_photo": "https://sheffieldfc.com/storage/thumbnails/default/rs/s5/47qf6m8ws4so8g8o80g0.jpg?p=%2FNAE3PFCzJX52JKekFCbyq8dRQlkUDpUd1Op76Ith.jpg&s=images&widen=1024",
+        "article_photo_caption": "Sheffield FC in action, carrying on the legacy as the world’s first football club.",
+        "date": "Founded in 1857",
+        "category": "Teams"
       }
+      
+      
+      
+      
       
       
       
