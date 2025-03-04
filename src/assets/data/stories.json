@@ -598,7 +598,40 @@
         "article_photo_caption": "Henrik Larsson’s pivotal performance in the 2006 UEFA Champions League Final helped Barcelona secure victory.",
         "date": "September 20, 1971",
         "category": "Players"
+      },
+      {
+        "id": 63,
+        "title": "Raúl González",
+        "description": "Raúl González is one of the most iconic and respected footballers in the history of Real Madrid and Spanish football. Born in Madrid, he joined the club’s youth academy after a brief stint at Atlético Madrid. At just 17 years old, Raúl made his first-team debut and never looked back. His intelligence, movement, and finishing ability made him the heart and soul of Real Madrid for over 15 years. As the club’s captain, he led Los Blancos to six La Liga titles and three UEFA Champions League trophies, scoring crucial goals in European finals. His famous lobbed goal against Manchester United in 2000 and his opener in the 2002 Champions League Final against Bayer Leverkusen are unforgettable moments in Madrid’s history. With 323 goals, he was Real Madrid’s all-time top scorer until Cristiano Ronaldo surpassed him. After leaving Madrid in 2010, Raúl enjoyed successful spells at Schalke 04, Al Sadd, and New York Cosmos before retiring. A true embodiment of loyalty, leadership, and class, Raúl remains one of the greatest symbols of Real Madrid’s golden era.",
+        "cover_photo": "https://colgadosporelfutbol.com/wp-content/uploads/2020/11/raul-gonzalez.jpg",
+        "article_photo": "https://img.goodfon.com/original/2560x1600/0/93/raul-gonzalez-blanco-real.jpg",
+        "article_photo_caption": "Raúl González celebrating a goal during his legendary career at Real Madrid.",
+        "date": "June 27, 1977",
+        "category": "Players"
+      },
+      {
+        "id": 64,
+        "title": "Sir Alex Ferguson’s Manchester United",
+        "description": "Sir Alex Ferguson’s Manchester United is one of the most dominant and legendary teams in football history. Taking over in 1986, Ferguson transformed the club from a struggling giant into the most successful team in English football. His philosophy of attacking football, youth development, and relentless winning mentality defined an entire generation. The iconic 1998-99 season saw United achieve an unprecedented Treble, winning the Premier League, FA Cup, and the UEFA Champions League in dramatic fashion. The comeback victory against Bayern Munich in the Champions League Final, sealed by late goals from Sheringham and Solskjær, remains one of the most memorable moments in football history. Ferguson’s reign lasted 27 years, bringing 13 Premier League titles, five FA Cups, and two Champions League trophies. Legends such as Eric Cantona, Ryan Giggs, Paul Scholes, David Beckham, Cristiano Ronaldo, and Wayne Rooney defined his era. Ferguson’s legacy remains unmatched, and his influence on Manchester United and world football will never be forgotten.",
+        "cover_photo": "https://static.independent.co.uk/2021/12/30/15/704b487fd41a74e95c273885adbf69a5Y29udGVudHNlYXJjaGFwaSwxNjQwOTU5Mzkw-2.61369583.jpg",
+        "article_photo": "https://eu-images.contentstack.com/v3/assets/blta90d05ad41a54a71/blt017652a1de8fdafc/635c04e0bf5dfc3543d29607/313219113_459347916181495_3456970787478032037_n.png",
+        "article_photo_caption": "Sir Alex Ferguson celebrating Manchester United’s historic 1999 Treble victory.",
+        "date": "1986-2013",
+        "category": "Teams"
+      },
+      {
+        "id": 67,
+        "title": "The Rise and Fall of the Chinese Super League: From Superstars to Collapse",
+        "description": "The Chinese Super League (CSL) once aimed to become a footballing superpower by attracting world-class talent with astronomical wages. During the mid-2010s, Chinese clubs spent massive sums to sign European and South American stars. Players like Carlos Tevez, Oscar, Hulk, Axel Witsel, and Paulinho arrived for record-breaking fees, earning salaries higher than those in Europe’s top leagues. Managers like Fabio Cannavaro and Luiz Felipe Scolari also joined, bringing international attention. However, the rapid rise of the CSL was unsustainable. The Chinese government imposed strict financial regulations in 2018 to curb excessive spending, introducing a salary cap and heavy taxes on foreign signings. The COVID-19 pandemic further worsened the league’s situation, with clubs facing financial crises and major teams like Jiangsu FC collapsing despite winning the league in 2020. By 2023, most foreign stars had left, and the league's ambitions of global dominance had faded. Once a symbol of football’s financial boom, the CSL now serves as a cautionary tale of reckless spending without long-term planning.",
+        "cover_photo": "https://cdn.images.express.co.uk/img/dynamic/67/590x/749713_1.jpg",
+        "article_photo": "https://content.api.news/v3/images/bin/e97dfd8e9007a9dec1cc7c58efd8d610",
+        "article_photo_caption": "Carlos Tevez, one of the biggest signings in CSL history, later called his time in China a 'holiday'.",
+        "date": "2015-2023",
+        "category": "Teams"
       }
+      
+      
+      
       
       
       
