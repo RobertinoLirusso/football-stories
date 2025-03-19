@@ -42,8 +42,14 @@
                   </span>
                 </p>                
                 </div>
-                <a [routerLink]="['/story', story.id]" class="btn btn-dark mt-2 btn-outline-light mt-auto w-auto">Read More</a>
-              </div>
+                <a 
+                [routerLink]="['/story', story.id]" 
+                class="btn btn-dark mt-2 btn-outline-light mt-auto w-auto"
+                [attr.href]="'/story/' + story.id" 
+                target="_blank">
+                Read More
+              </a>
+            </div>
           </div>
         </div>
       </div>
